@@ -1,0 +1,1108 @@
+location	longitude	latitude	QoS	station	revision
+Europe/Berlin	6.9747	50.82709	accep	Wesseling	2022-02-07
+America/New_York	-71.8023	42.58342	accep	Fitchburg	21 Oct 2015
+Europe/Madrid	3.1631	41.91738	accep	Palafrugell	2012-12-29
+Asia/Shanghai	123.17306	41.27194	average	Liaoyang	05 Jan 2014
+Europe/Madrid	-8.2194	43.48961	good	Ferrol	2013-08-07
+America/Bogota	-73.9614	10.15031	accep	El Copey	2013/09/22
+Europe/Saratov	46.04833	51.40944	excellent	Privolzhskiy	2021/10/15
+America/Los_Angeles	-116.97725	33.92946	accep	Beaumont	08 Oct 2020
+Africa/Khartoum	34.3869	11.8659	building	Ar Ruseris	05 Feb 2013
+Asia/Karachi	73.97117	31.96258	excellent	Naushahra Virkan	2019/12/13
+Asia/Kolkata	83.36889	26.76628	average	Gorakhpur	30 Jun 2022
+Asia/Jakarta	98.6738	3.7278	acceptable	Labuhan Deli	31 Mar 2013
+Africa/Gaborone	27.46153	-21.44236	average	Tonota	04/02/2016, 00:00:00
+Europe/Berlin	7.2278	50.64336	excellent	Bad Honnef	2015/10/06
+Europe/Paris	-4.1	48	excellent	Quimper	04/22/2018, 00:00:00
+Asia/Kuala_Lumpur	101.02083	4.02219	excellent	Teluk Intan	2012/11/25
+Europe/Istanbul	27.18052	39.12074	average	Bergama	2021-09-05
+Asia/Kolkata	72.68533	22.75218	maintenance	Kheda	18 Nov 2014
+Asia/Kolkata	81.54855	26.2649	good	Jais	2013/02/19
+Asia/Tokyo	136.13108	34.75856	building	Ueno-ebisumachi	2018/07/20
+America/Mazatlan	-105.36369	22.49396	accep	Acaponeta	07/27/2018, 00:00:00
+Africa/Johannesburg	30.79165	-27.76952	accep	Vryheid	2021/01/03
+Australia/Melbourne	145.18333	-37.9	average	Wheelers Hill	2019/09/16
+Europe/Moscow	38.16694	54.84444	excellent	Kashira	2015-03-22
+America/Argentina/Buenos_Aires	-58.70072	-34.74785	good	Pontevedra	2020/01/06
+Europe/Berlin	7.20769	50.80019	maintenance	Siegburg	2014-09-13
+Europe/Brussels	5.37429	51.03427	excellent	Houthalen	18 May 2021
+Europe/Berlin	8.91229	49.13645	excellent	Eppingen	2019/01/28
+Asia/Manila	120.56528	14.66	good	Pilar	2016/12/18
+America/New_York	-73.97069	40.64621	accep	Kensington	2015/12/16
+Europe/Berlin	11.18709	48.73218	average	Neuburg an der Donau	2020-03-25
+America/Bahia	-38.94722	-15.675	accep	Canavieiras	2022-08-24
+America/Bogota	-74.26419	4.73245	good	Madrid	10 May 2016
+Africa/Bangui	15.87735	4.94273	accep	Carnot	07/20/2022, 00:00:00
+America/Sao_Paulo	-51.87389	-23.44361	average	Sarandi	2016/06/19
+Europe/Paris	3.87723	43.61092	average	Montpellier	2022-03-15
+Asia/Bangkok	104.64992	14.64056	good	Kantharalak	2022-08-15
+Africa/Maputo	35.34722	-23.85972	good	Maxixe	2017/07/07
+Asia/Jakarta	109.05389	-7.51611	accep	Wangon	01/04/2018, 00:00:00
+Africa/Dar_es_Salaam	38.66667	-6.25	average	Mvomero	2022/02/21
+Africa/Brazzaville	15.28318	-4.26613	accep	Brazzaville	2014-04-14
+Europe/London	-2.1875	51.26	average	Westbury	04 Nov 2016
+Asia/Kolkata	74.85849	31.28092	good	Patti	2019-04-04
+Africa/Dar_es_Salaam	33	-2.68333	excellent	Usagara	12/17/2014, 00:00:00
+Africa/Nairobi	35.59642	3.11988	average	Lodwar	2015/06/26
+Europe/Berlin	7.2278	50.64336	average	Bad Honnef	03 Jan 2015
+Asia/Manila	120.4861	16.0438	building	Manaoag	08/26/2022, 00:00:00
+America/New_York	-72.97261	43.61062	maintenance	Rutland	2018/05/26
+America/Los_Angeles	-117.54866	33.93113	good	Norco	2015-02-20
+Asia/Manila	124.84472	10.13361	accep	Maasin	12/27/2020, 00:00:00
+Asia/Makassar	117.59152	3.31332	building	Tarakan	27 Mar 2018
+Europe/Lisbon	-8.2503	37.08819	accep	Albufeira	01/22/2022, 00:00:00
+America/New_York	-73.75513	40.60538	building	Far Rockaway	2022/06/02
+America/Puerto_Rico	-66.8499	18.03496	good	Yauco	01/23/2014, 00:00:00
+Europe/Brussels	3.16667	50.8	acceptable	Wevelgem	2021-01-26
+Europe/Rome	17.80774	40.55851	average	Mesagne	22 Jan 2017
+Europe/Moscow	37.49338	55.62047	building	Tyoply Stan	2018-12-11
+America/Mexico_City	-101.2591	21.01858	good	Guanajuato	2013/10/11
+America/Costa_Rica	-84.13722	9.92787	good	San Rafael	2020-10-31
+Asia/Jakarta	107.60389	-7.01833	excellent	Pameungpeuk	2018/06/24
+America/Los_Angeles	-120.93549	37.73604	accep	Riverbank	2017/08/15
+Africa/Lubumbashi	24.99798	-8.73508	accep	Kamina	2017/05/19
+America/Los_Angeles	-117.29198	33.03699	accep	Encinitas	06/15/2019, 00:00:00
+Africa/Lagos	4.52514	12.74482	average	Argungu	2018-04-30
+Europe/Lisbon	-8.2503	37.08819	good	Albufeira	14 Jun 2017
+America/New_York	-72.97261	43.61062	accep	Rutland	2013-01-06
+Europe/Warsaw	19.27498	50.20528	excellent	Jaworzno	2013/01/24
+Europe/Sarajevo	19.21437	44.75874	maintenance	Bijeljina	08/21/2019, 00:00:00
+Europe/Berlin	13.32127	52.59319	average	Wittenau	10/04/2016, 00:00:00
+Europe/Brussels	3.20639	50.74497	accep	Mouscron	2013-05-19
+America/Bogota	-74.26419	4.73245	accep	Madrid	2014-05-02
+Europe/Malta	14.51472	35.89972	accep	Valletta	2022-02-25
+America/Lima	-69.08333	-16.25	maintenance	Yunguyo	2013/03/05
+America/Argentina/Buenos_Aires	-60.47389	-34.64167	excellent	Chacabuco	2021-05-13
+Europe/Berlin	10.03988	53.6052	good	Barmbek-Nord	18 Jan 2015
+Asia/Kolkata	78.27539	12.95629	average	Robertsonpet	2013/03/17
+America/New_York	-84.50855	39.08367	accep	Covington	19 Jun 2019
+America/Denver	-111.99633	40.65995	good	Kearns	06 Oct 2013
+Europe/Zurich	6.10237	46.18396	accep	Onex	02/09/2014, 00:00:00
+Europe/Paris	-4.1	48	excellent	Quimper	09/06/2013, 00:00:00
+Asia/Kolkata	75.35927	12.04161	excellent	Talipparamba	2012/11/02
+America/Argentina/Buenos_Aires	-58.70072	-34.74785	accep	Pontevedra	25 May 2014
+Europe/Warsaw	15.00835	51.14942	maitennce	Zgorzelec	2021/01/20
+Asia/Almaty	84.87144	47.46657	good	Zaysan	2020/09/01
+America/Panama	-79.62603	8.88988	excellent	Veracruz	2018/11/01
+America/Chicago	-96.67834	34.77453	average	Ada	2015-08-26
+Europe/London	-2.12139	52.48173	average	Brierley Hill	10/15/2017, 00:00:00
+Asia/Seoul	126.665	36.6009	average	Hongseong	2018-06-15
+Europe/London	-0.32247	50.82882	average	Lancing	03/23/2016, 00:00:00
+Asia/Seoul	128.63083	36.82167	excellent	Eisen	2019/02/05
+Europe/Rome	13.57661	37.31065	building	Agrigento	2012/11/07
+America/New_York	-82.35176	27.71809	good	Sun City Center	25 Feb 2020
+America/New_York	-74.28459	40.5576	maintenance	Woodbridge	08 Aug 2017
+America/Chicago	-88.70464	34.25807	accep	Tupelo	2014/10/29
+America/Detroit	-83.48216	42.30865	average	Canton	2020-11-14
+Asia/Kolkata	73.06784	25.13915	excellent	Sheoganj	2014/09/17
+America/Sao_Paulo	-46.99583	-22.97056	good	Valinhos	2012-10-13
+Asia/Manila	120.89694	14.95472	average	Baliuag	2020-12-22
+Europe/London	-0.33525	53.7446	excellent	Kingston upon Hull	11/29/2015, 00:00:00
+America/New_York	-81.77285	28.54944	accep	Clermont	07/04/2018, 00:00:00
+Asia/Kolkata	85.37752	22.10194	good	Barbil	2020/01/29
+Asia/Almaty	84.87144	47.46657	excellent	Zaysan	03/12/2013, 00:00:00
+Europe/Belgrade	22.53083	44.22639	average	Negotin	17 Jun 2021
+Africa/Douala	9.00472	4.2475	excellent	Idenao	03/02/2014, 00:00:00
+America/Bahia	-38.94722	-15.675	excellent	Canavieiras	2020-06-23
+Asia/Kabul	65.93249	36.21544	excellent	Sar-e Pul	2018-07-01
+America/New_York	-81.56929	41.55838	excellent	Collinwood	31 Jul 2022
+Europe/Andorra	1.53414	42.50729	excellent	les Escaldes	2019/10/08
+Europe/Moscow	39.85331	57.30185	good	Gavrilov-Yam	2016-02-19
+America/Sao_Paulo	-42.98194	-22.53722	average	Guapimirim	01/02/2016, 00:00:00
+America/New_York	-76.72803	39.32288	good	Woodlawn	07 Jan 2014
+Asia/Kolkata	78.95693	29.21399	accep	Kashipur	2021/01/21
+Europe/Berlin	7.02238	52.21099	accep	Gronau	14 Jan 2020
+Asia/Shanghai	120.74792	41.09822	accep	Nanpiao	2015/06/12
+Europe/Rome	7.60872	43.78956	average	Ventimiglia	2020/02/04
+America/Chicago	-88.31476	36.61033	accep	Murray	05/18/2017, 00:00:00
+Africa/Maputo	35.34722	-23.85972	average	Maxixe	2021-12-07
+America/Chicago	-96.39774	30.16688	excellent	Brenham	27 Jan 2013
+Europe/Rome	8.62118	45.44694	good	Novara	17 Aug 2018
+Asia/Yekaterinburg	76.92421	60.97944	accep	Izluchinsk	02/15/2019, 00:00:00
+Europe/Madrid	-4.10734	38.68712	building	Puertollano	2016/11/29
+Asia/Seoul	128.9889	37.1759	good	T‚Äôaebaek	2015-02-18
+America/New_York	-73.49484	41.14676	good	New Canaan	2015-04-11
+America/Los_Angeles	-122.2608	38.17492	excellent	American Canyon	09/27/2021, 00:00:00
+Europe/Paris	2.29026	48.77644	good	Sceaux	10/22/2012, 00:00:00
+America/Chicago	-87.93341	42.55308	excellent	Pleasant Prairie	2018/08/11
+America/New_York	-78.04471	34.25628	excellent	Leland	2018-05-29
+Europe/Rome	13.44275	38.07789	excellent	Villabate	18 Aug 2016
+Asia/Kolkata	75.35927	12.04161	accep	Talipparamba	04/07/2021, 00:00:00
+Asia/Damascus	36.7138	35.95664	average	Binnish	2019-10-07
+Europe/Madrid	-4.83076	39.96348	good	Talavera de la Reina	31 Jan 2019
+Europe/London	-4.21376	55.82885	maintenance	Rutherglen	2014-04-10
+Europe/Paris	4.91667	45.73333	maintenance	Bron	2018-09-27
+Europe/Berlin	7.2278	50.64336	building	Bad Honnef	2014-08-30
+Europe/Paris	2.12213	48.8222	average	Le Chesnay	2021/08/31
+Asia/Baku	48.87498	38.45598	average	Astara	2019-10-13
+America/Chicago	-88.81395	35.61452	good	Jackson	2015-11-27
+Asia/Manila	122.8637	9.3337	average	Santa Catalina	04/26/2013, 00:00:00
+Africa/Tunis	10.78222	36.46917	good	Beni Khiar	11/19/2016, 00:00:00
+Africa/Accra	-1.4001	7.06273	excellent	Mampong	11 Mar 2020
+Europe/Moscow	30.38167	59.80917	accep	Shushary	2020/05/25
+Europe/Andorra	1.53414	42.50729	good	les Escaldes	24 Nov 2021
+Europe/London	0.47713	51.39323	excellent	Strood	05/29/2013, 00:00:00
+Asia/Tokyo	144.09638	43.82634	excellent	Motomachi	22 Sep 2020
+Europe/Berlin	8.91229	49.13645	average	Eppingen	2014/11/03
+Asia/Tokyo	137.02166	35.48199	building	Minokamo	2018/01/24
+Asia/Jakarta	103.61667	-1.6	acceptable	Jambi City	11/08/2014, 00:00:00
+Asia/Makassar	118.9707	-3.5403	average	Majene	06 Dec 2019
+America/Los_Angeles	-122.39168	40.58654	building	Redding	12/22/2020, 00:00:00
+Europe/Rome	8.86374	44.89784	maintenance	Tortona	2017-09-23
+Asia/Jerusalem	34.8732	32.05971	accep	Ganei Tikva	03/31/2015, 00:00:00
+America/Toronto	-73.58248	45.40008	accep	Sainte-Catherine	2014-12-28
+Asia/Kolkata	79.41727	12.25282	accep	Gingee	28 Feb 2014
+America/Chicago	-88.3162	42.24113	good	Crystal Lake	08/15/2013, 00:00:00
+Asia/Jakarta	99.1625	3.3285	average	Tebingtinggi	2016-11-13
+Asia/Tokyo	139.6853	35.815	good	Shimotoda	2016-01-01
+Europe/Stockholm	18.28333	59.33333	good	Boo	2013-06-21
+America/Tegucigalpa	-86.57415	15.48131	maintenance	Olanchito	04/10/2013, 00:00:00
+Europe/London	-1.99421	51.35084	good	Devizes	2016-08-12
+Asia/Novokuznetsk	85.4265	55.8736	building	Yashkino	10 Sep 2013
+America/Los_Angeles	-117.29198	33.03699	good	Encinitas	09/29/2016, 00:00:00
+America/Chicago	-99.73314	32.44874	average	Abilene	2020/11/03
+Europe/Berlin	6.9747	50.82709	average	Wesseling	2016/06/05
+America/New_York	-81.56929	41.55838	accep	Collinwood	2021/04/01
+America/Bogota	-73.26022	6.46838	good	Socorro	08/19/2018, 00:00:00
+Asia/Manila	121.12251	14.62578	average	Antipolo	2012/11/25
+America/Fortaleza	-42.29444	-4.24444	accep	Barras	01/16/2020, 00:00:00
+Europe/Prague	12.87117	50.23271	excellent	Karlovy Vary	08/25/2022, 00:00:00
+Europe/Zaporozhye	36.25361	47.48444	good	Polohy	2013-09-16
+Asia/Kolkata	88.28637	23.07492	average	Pandua	2021/03/15
+Europe/Moscow	36.73307	55.38752	average	Naro-Fominsk	12/28/2017, 00:00:00
+Europe/London	-4.21376	55.82885	good	Rutherglen	2017-12-30
+Europe/Berlin	10.18527	47.98372	accep	Memmingen	24 Jun 2014
+Asia/Seoul	128.63083	36.82167	average	Eisen	04 Sep 2017
+Asia/Kolkata	76.35484	10.10649	average	Alwaye	06/28/2019, 00:00:00
+Africa/Libreville	13.58357	-1.63333	good	Franceville	2016/04/16
+America/Bogota	-75.69947	8.79577	excellent	San Carlos	2019/07/23
+America/Chicago	-87.70172	41.72059	good	Evergreen Park	06/19/2017, 00:00:00
+Africa/Lagos	12.19458	10.61285	building	Biu	2019/06/16
+Europe/Moscow	37.99117	44.92934	good	Krymsk	2015/07/24
+Asia/Tokyo	135.31667	34.25	good	Iwade	12/02/2013, 00:00:00
+America/Bogota	-74.73584	5.20856	average	Honda	05/06/2013, 00:00:00
+America/Los_Angeles	-119.01677	36.06523	building	Porterville	2021-05-23
+Asia/Kolkata	81.54855	26.2649	excellent	Jais	2014/12/02
+Europe/Moscow	47.1192	42.819	excellent	Buynaksk	20 Jul 2013
+America/Chicago	-86.78777	33.44872	excellent	Vestavia Hills	2022/05/22
+Europe/Paris	-1.05366	43.71032	accep	Dax	2018/10/21
+America/Tegucigalpa	-86.57415	15.48131	excellent	Olanchito	10/20/2014, 00:00:00
+Asia/Tashkent	72.34424	40.78206	excellent	Andijon	11 Oct 2019
+America/Chicago	-94.74049	32.5007	good	Longview	2014/09/29
+Europe/Berlin	7.36027	51.20219	good	Radevormwald	2016/02/23
+Europe/London	-3.05	53.81667	excellent	Blackpool	04 May 2018
+Europe/Rome	11.412	45.50369	good	Montecchio Maggiore-Alte Ceccato	08/25/2016, 00:00:00
+Europe/Rome	11.412	45.50369	maintenance	Montecchio Maggiore-Alte Ceccato	2013/10/10
+Europe/Madrid	2.18247	41.41204	accep	el Camp de l'Arpa del Clot	2015-11-17
+America/Chicago	-98.15529	26.18924	good	San Juan	02/10/2020, 00:00:00
+Asia/Kolkata	76.32756	9.57046	building	Kalavoor	2014-06-23
+Asia/Baghdad	44.02488	32.61603	average	Karbala	2018/10/04
+Asia/Vladivostok	133.42825	45.47885	maintenance	Lesozavodsk	2021-07-20
+America/Costa_Rica	-84.13722	9.92787	excellent	San Rafael	05 May 2018
+America/Indiana/Indianapolis	-85.76942	39.78504	average	Greenfield	12/30/2017, 00:00:00
+Africa/Accra	-1.4001	7.06273	average	Mampong	2018/08/09
+Asia/Tokyo	137.36215	36.75965	accep	Namerikawa	2020/11/25
+Europe/Berlin	6.9747	50.82709	average	Wesseling	07 Aug 2013
+Asia/Manila	120.57224	15.72892	good	Burgos	01/24/2013, 00:00:00
+Asia/Yangon	97.01124	17.30858	average	Kyaikto	2016/05/03
+Asia/Manila	120.97844	14.8361	maitennce	Guyong	01 May 2015
+Asia/Jakarta	106.92667	-6.91806	maintenance	Sukabumi	2015-02-07
+America/Santo_Domingo	-71.10077	18.20854	accep	Santa Cruz de Barahona	02/20/2022, 00:00:00
+Asia/Almaty	84.87144	47.46657	good	Zaysan	12/21/2016, 00:00:00
+Africa/Algiers	2.95924	36.76775	accep	Cheraga	2014/08/27
+America/Fortaleza	-40.7475	-4.16694	building	Guaraciaba do Norte	02/20/2022, 00:00:00
+Europe/London	0.47713	51.39323	excellent	Strood	2017/04/02
+Asia/Jakarta	106.92667	-6.91806	building	Sukabumi	27 Jan 2020
+America/Los_Angeles	-122.39168	40.58654	maintenance	Redding	2016/12/24
+Europe/Bratislava	17.22635	48.8449	building	Skalica	2013-01-29
+Europe/Berlin	9.15214	49.97704	excellent	Aschaffenburg	2014/03/08
+Europe/Paris	1.33467	43.61058	excellent	Colomiers	05/07/2018, 00:00:00
+Europe/Madrid	-2.77259	37.49073	excellent	Baza	11/30/2012, 00:00:00
+Asia/Karachi	71.67164	30.29184	accep	Qadirpur Ran	21 May 2020
+Asia/Yakutsk	111.4834	65.93381	good	Aykhal	2020/03/01
+Africa/Cairo	29.91582	31.20176	average	Alexandria	13 Mar 2016
+Africa/Casablanca	-6.90656	33.92866	maintenance	Temara	04/27/2019, 00:00:00
+America/Sao_Paulo	-46.99583	-22.97056	average	Valinhos	2017-06-19
+Asia/Seoul	128.62667	34.8825	good	Sinhyeon	27 Oct 2016
+Europe/London	-0.36053	51.64316	excellent	Bushey	28 May 2021
+Europe/London	-2.98333	53.83333	accep	Poulton-le-Fylde	2015-08-02
+Europe/Minsk	25.8191	53.5942	accep	Novogrudok	07/17/2014, 00:00:00
+Asia/Urumqi	86.00214	46.51872	excellent	Hoxtolgay	11 Apr 2018
+America/New_York	-73.95958	40.57788	good	Brighton Beach	08/26/2021, 00:00:00
+Asia/Kolkata	79.41727	12.25282	average	Gingee	2020/07/03
+Africa/Lagos	4.74161	7.62789	average	Ilesa	01 Nov 2013
+America/New_York	-78.04471	34.25628	maintenance	Leland	2014-11-30
+Asia/Tokyo	138.89585	36.33011	average	Annaka	07/31/2020, 00:00:00
+America/New_York	-71.05977	42.35843	maintenance	Boston	2013-11-19
+Asia/Karachi	70.96699	30.46907	maintenance	Kot Addu	26 Mar 2018
+Europe/Berlin	11.32903	50.9803	average	Weimar	04/22/2015, 00:00:00
+America/Los_Angeles	-116.97725	33.92946	accep	Beaumont	2022-05-15
+America/Chicago	-95.44744	29.53885	maintenance	Fresno	30 Jul 2018
+Europe/Paris	2.18967	48.8765	excellent	Rueil-Malmaison	2019-12-07
+Asia/Karachi	70.96699	30.46907	good	Kot Addu	2016/11/01
+Europe/Paris	2.45012	48.90982	accep	Bobigny	05/16/2022, 00:00:00
+Africa/Banjul	-15.6	13.56667	average	Farafenni	2016/09/16
+Asia/Kolkata	71.57737	21.53889	good	Gariadhar	25 Apr 2022
+America/Cuiaba	-52.35558	-14.66463	good	Nova Xavantina	19 Mar 2018
+Asia/Aqtobe	59.6	47.83333	excellent	Shalqar	2019/04/04
+America/Santiago	-70.6996	-33.59217	good	San Bernardo	2012-11-06
+Europe/Rome	8.86374	44.89784	maintenance	Tortona	2018/07/05
+Asia/Dhaka	91.84128	22.83957	maitennce	Manikchari	09/23/2018, 00:00:00
+America/New_York	-73.47429	40.68066	good	Massapequa	04/18/2019, 00:00:00
+Europe/Dublin	-7.35	53.53333	acceptable	An Muileann gCearr	22 Aug 2020
+Asia/Shanghai	117.55417	34.86472	excellent	Zaozhuang	2015-08-13
+Europe/Warsaw	19.27498	50.20528	accep	Jaworzno	04/09/2016, 00:00:00
+Europe/London	0.93333	52.68333	excellent	East Dereham	2015-06-15
+America/New_York	-81.38758	30.17746	accep	Palm Valley	2016-06-27
+Europe/Rome	8.88104	45.79377	maitennce	Malnate	07/13/2019, 00:00:00
+Asia/Yekaterinburg	59.80222	58.63667	good	Lesnoy	2020-06-25
+Europe/Berlin	13.10984	51.30001	building	Oschatz	2013/10/27
+Asia/Jakarta	110.71639	-7.54972	accep	Ngemplak	2018-04-18
+Africa/Freetown	-13.2356	8.48714	excellent	Freetown	12/15/2013, 00:00:00
+Asia/Jakarta	101.44167	0.51667	maintenance	Pekanbaru	20 Mar 2014
+Europe/Madrid	-2.68333	43.31667	accep	Gernika-Lumo	17 Jan 2021
+Asia/Kolkata	76.35484	10.10649	good	Alwaye	2019-11-17
+Asia/Shanghai	120.82747	37.30553	accep	Zhuangyuan	2014/09/24
+America/New_York	-77.02303	38.70734	good	Fort Washington	2022/07/30
+Asia/Vladivostok	140.72287	53.14657	maintenance	Nikolayevsk-on-Amure	2015-03-06
+America/Fortaleza	-42.29444	-4.24444	good	Barras	19 Feb 2013
+Africa/Lagos	8.2926	9.58126	good	Kafanchan	2022-02-01
+Asia/Tehran	48.26258	33.86419	good	Aleshtar	2016/05/27
+Europe/Rome	12.38878	43.1122	building	Perugia	2014-09-01
+Asia/Tehran	51.67462	32.65246	maintenance	Isfahan	22 May 2022
+Europe/Saratov	46.04833	51.40944	building	Privolzhskiy	2021/03/21
+Europe/Brussels	4.69889	50.56149	good	Gembloux	2016/01/04
+Europe/Paris	3.87723	43.61092	maintenance	Montpellier	10/13/2017, 00:00:00
+Europe/Moscow	38.07083	54.90083	excellent	Stupino	22 Jan 2021
+America/Los_Angeles	-122.38731	45.53929	average	Troutdale	05/05/2020, 00:00:00
+Asia/Karachi	68.11759	26.9423	building	Tharu Shah	2013-09-25
+Europe/Vienna	16.4	48.25	average	Floridsdorf	2015-12-25
+Asia/Jakarta	110.8405	-6.8048	average	Kudus	12/02/2014, 00:00:00
+Europe/Berlin	7.11393	51.08468	maintenance	Burscheid	03/08/2019, 00:00:00
+America/Merida	-89.66123	21.28306	accep	Progreso	06/24/2021, 00:00:00
+America/Chicago	-88.27205	44.27804	excellent	Kaukauna	07 May 2018
+America/New_York	-84.23381	33.54428	building	Stockbridge	20 Apr 2014
+America/Detroit	-82.42491	42.97086	good	Port Huron	02/18/2013, 00:00:00
+America/Detroit	-84.62081	42.7392	maintenance	Waverly	2020-06-11
+Europe/Madrid	-3.67029	37.13548	good	Las Gabias	11/06/2015, 00:00:00
+Asia/Jakarta	107.60389	-7.01833	excellent	Pameungpeuk	06/02/2018, 00:00:00
+Asia/Urumqi	86.00214	46.51872	excellent	Hoxtolgay	2013-04-20
+America/Mexico_City	-97.35992	19.8173	excellent	Teziutlan	01 Jul 2019
+Europe/Minsk	30.2049	55.1904	average	Vitebsk	03/23/2020, 00:00:00
+Asia/Yangon	98.50893	16.68911	excellent	Myawadi	2016/03/31
+America/New_York	-77.37331	37.60876	average	Mechanicsville	02/12/2016, 00:00:00
+America/New_York	-76.72803	39.32288	good	Woodlawn	25 Aug 2015
+America/Los_Angeles	-122.24064	47.80527	accep	Bothell West	24 May 2021
+Europe/Madrid	-3.67029	37.13548	maintenance	Las Gabias	01 Apr 2016
+America/Chicago	-88.42814	42.16808	maintenance	Huntley	2013-09-29
+Europe/Warsaw	18.30056	50.5107	maintenance	Strzelce Opolskie	2022-01-06
+Asia/Hebron	35.23388	31.78336	building	East Jerusalem	27 Nov 2020
+America/Mexico_City	-98.1664	19.32932	good	Contla	2022/06/03
+Africa/Tunis	10.58082	35.72917	maintenance	Msaken	06/30/2015, 00:00:00
+America/Chicago	-86.78777	33.44872	excellent	Vestavia Hills	2014/12/03
+Asia/Tehran	51.67462	32.65246	excellent	Isfahan	2017/01/28
+Asia/Karachi	68.21204	27.55898	excellent	Larkana	06/10/2013, 00:00:00
+America/Chicago	-86.78777	33.44872	maintenance	Vestavia Hills	2013/06/18
+Europe/Paris	2.44892	48.98693	average	Gonesse	2019/08/04
+Asia/Yekaterinburg	69.49015	56.11281	average	Ishim	20 Sep 2017
+Asia/Manila	121.12251	14.62578	average	Antipolo	11 Jun 2019
+Asia/Shanghai	117.65694	36.19278	excellent	Laiwu	12/07/2014, 00:00:00
+Africa/Dar_es_Salaam	29.65806	-4.83	good	Mwandiga	2017-03-02
+Asia/Kolkata	77.24779	10.58806	maintenance	Udumalaippettai	2018/02/05
+Asia/Yekaterinburg	69.49015	56.11281	good	Ishim	11/09/2021, 00:00:00
+Asia/Karachi	68.88871	25.95533	accep	Jhol	2014/07/02
+Asia/Bangkok	104.1451	15.79408	accep	Yasothon	31 Aug 2013
+Asia/Kolkata	78.27539	12.95629	excellent	Robertsonpet	2018-02-18
+Europe/Moscow	38.16694	54.84444	good	Kashira	2020/08/20
+Asia/Kolkata	71.21169	21.59983	excellent	Amreli	21 Feb 2015
+Asia/Kuala_Lumpur	103.6032	1.6561	good	Kulai	2018-01-05
+Asia/Tehran	51.67462	32.65246	excellent	Isfahan	20 Mar 2020
+Asia/Karachi	71.67164	30.29184	accep	Qadirpur Ran	03 Aug 2014
+Europe/Berlin	9.17702	48.78232	good	Stuttgart	05/10/2022, 00:00:00
+Africa/Tunis	10.78222	36.46917	maintenance	Beni Khiar	03/02/2016, 00:00:00
+America/Bogota	-77.03116	3.8801	excellent	Buenaventura	27 Apr 2022
+Asia/Kolkata	86.59611	25.87498	building	Saharsa	2017-05-06
+Asia/Kolkata	72.68533	22.75218	average	Kheda	18 Nov 2019
+America/Havana	-82.4017	23.0072	excellent	Boyeros	12 Aug 2015
+America/Sao_Paulo	-53.13722	-22.92306	average	Loanda	24 Jun 2018
+Asia/Kolkata	79.41727	12.25282	average	Gingee	11/06/2014, 00:00:00
+Europe/Berlin	8.64409	48.07667	excellent	Trossingen	2020/11/12
+Europe/Berlin	9.5926	52.86147	excellent	Walsrode	12/20/2019, 00:00:00
+Europe/Sofia	27.25	42.7	average	Aytos	12 Aug 2020
+Australia/Sydney	146.05093	-34.28853	average	Griffith	06 Feb 2020
+Europe/Kiev	26.97253	49.65186	average	Krasyliv	2022-02-25
+Indian/Reunion	55.4504	-20.88231	accep	Saint-Denis	2019-04-03
+America/Chicago	-94.74049	32.5007	good	Longview	23 Jan 2015
+Africa/Tripoli	20.22625	30.75545	excellent	Ajdabiya	2015-01-07
+Asia/Jakarta	110.71639	-7.54972	average	Ngemplak	2019-09-30
+Europe/Helsinki	24.95034	60.18427	average	Kallio	04/10/2021, 00:00:00
+America/Caracas	-70.20749	8.62261	good	Barinas	10 Sep 2018
+America/Argentina/Buenos_Aires	-58.38341	-34.64966	average	Barracas	2019-12-25
+Asia/Tokyo	136.51667	35	accep	Komono	09 Mar 2017
+America/Chicago	-99.73314	32.44874	excellent	Abilene	2013-07-10
+Asia/Bangkok	99.89166	15.46063	building	Thap Than	2018/12/29
+America/New_York	-82.61573	41.24255	average	Norwalk	18 Jan 2013
+Europe/London	1.26738	51.84819	average	Walton-on-the-Naze	13 Mar 2020
+Europe/Moscow	34.34691	61.78491	building	Petrozavodsk	03/13/2018, 00:00:00
+Europe/Paris	2.61667	48.98333	good	Mitry-Mory	2020/05/08
+Atlantic/Azores	-25.66689	37.74615	accep	Ponta Delgada	2018/06/13
+Africa/Kampala	30.98551	2.41669	average	Paidha	2015-09-28
+America/New_York	-75.60804	39.96097	average	West Chester	04/26/2018, 00:00:00
+Asia/Karachi	70.96699	30.46907	average	Kot Addu	2020-08-11
+America/Argentina/Cordoba	-60.93173	-31.4488	average	Esperanza	2016-04-20
+America/Argentina/Buenos_Aires	-58.38341	-34.64966	average	Barracas	14 Feb 2013
+Europe/Bratislava	17.8031	48.43174	good	Hlohovec	11/29/2013, 00:00:00
+Europe/Amsterdam	7.00417	52.26083	good	Losser	2013/05/04
+America/Los_Angeles	-117.54866	33.93113	excellent	Norco	07/19/2021, 00:00:00
+America/Fortaleza	-40.7475	-4.16694	accep	Guaraciaba do Norte	2019-07-26
+America/Bahia	-37.93278	-11.48472	average	Rio Real	2018/08/20
+Asia/Kolkata	71.57737	21.53889	building	Gariadhar	01/06/2018, 00:00:00
+America/New_York	-73.99681	40.94065	good	Dumont	22 Dec 2013
+Asia/Jerusalem	34.86563	31.92923	accep	Ramla	09/03/2015, 00:00:00
+Europe/Vienna	16.4	48.25	excellent	Floridsdorf	2019/02/18
+Asia/Tokyo	136.51667	35	good	Komono	2012/12/30
+Asia/Shanghai	125.51176	42.64031	accep	Dongfeng	05/31/2022, 00:00:00
+Europe/Moscow	34.34691	61.78491	average	Petrozavodsk	2018-09-14
+Europe/Kiev	31.33078	47.56494	accep	Voznesensk	2015/08/02
+Asia/Taipei	119.58627	23.5654	average	Magong	20 Jul 2019
+Africa/Abidjan	-5.682	5.84752	good	Lakota	2016/07/12
+Europe/Kiev	32.6178	46.65581	building	Kherson	2015-11-17
+Europe/Paris	-1.05366	43.71032	good	Dax	2019/01/25
+Europe/Amsterdam	6.76111	53.16167	excellent	Hoogezand	09/17/2013, 00:00:00
+Europe/Paris	2.29026	48.77644	good	Sceaux	09 Nov 2020
+Africa/Dar_es_Salaam	37.00438	-7.60361	accep	Kidodi	2021/12/05
+Asia/Manila	120.4861	16.0438	building	Manaoag	2016/09/01
+America/Sao_Paulo	-44.31389	-19.7625	accep	Esmeraldas	2015/04/14
+Europe/Belgrade	19.61222	44.97639	excellent	Sremska Mitrovica	2016/02/08
+Asia/Kolkata	78.25795	9.82564	average	Tiruppuvanam	27 Oct 2018
+Asia/Kolkata	86.59611	25.87498	accep	Saharsa	10/07/2012, 00:00:00
+Africa/Algiers	2.31889	35.21222	average	Ksar Chellala	10/29/2020, 00:00:00
+Asia/Karachi	71.52847	32.57756	average	Mianwali	2021/04/14
+Asia/Tokyo	141.95	39.46667	excellent	Yamada	14 Oct 2015
+Africa/Mogadishu	42.54536	-0.35817	average	Kismayo	2015/02/14
+America/Caracas	-68.30472	9.91861	excellent	Tinaquillo	2017-09-19
+America/Chicago	-97.54667	30.5427	average	Hutto	2015/07/30
+Africa/Windhoek	16.91667	-21.98333	excellent	Okahandja	2019/06/25
+America/Los_Angeles	-119.01677	36.06523	average	Porterville	03 Dec 2012
+America/New_York	-74.28459	40.5576	good	Woodbridge	2019-01-06
+Asia/Seoul	128.62667	34.8825	building	Sinhyeon	2022/01/24
+America/Los_Angeles	-116.21677	33.7207	accep	Indio	2021-09-12
+Europe/Berlin	9.72749	48.28259	good	Ehingen	2020/12/27
+America/New_York	-73.78458	41.0051	maintenance	Scarsdale	09/10/2017, 00:00:00
+Europe/Moscow	32.86389	53.95278	building	Roslavl‚Äô	23 Sep 2022
+Australia/Sydney	151.08057	-33.79176	excellent	Eastwood	2018/08/21
+Europe/London	-0.76667	53.38333	accep	Gainsborough	2015-08-10
+Europe/London	-3.05814	53.00974	accep	Rhosllanerchrugog	2018/07/15
+Europe/Rome	12.84052	45.78071	accep	Portogruaro	2013/05/13
+Asia/Kolkata	76.56719	24.41288	average	Aklera	2016-04-22
+Europe/Moscow	32.86389	53.95278	average	Roslavl‚Äô	05/18/2021, 00:00:00
+America/Chicago	-93.263	45.0408	maintenance	Columbia Heights	2017/12/26
+Europe/Belgrade	20.89389	42.62833	maintenance	Glogovac	05/01/2018, 00:00:00
+America/Martinique	-60.94228	14.67751	building	Le Robert	2016/12/08
+Asia/Yakutsk	111.4834	65.93381	maintenance	Aykhal	2014/02/08
+Asia/Kolkata	73.08333	19.21667	accep	Dombivli	05 Nov 2021
+Australia/Sydney	151.08057	-33.79176	building	Eastwood	19 May 2019
+Asia/Kolkata	86.51499	23.1959	building	Kenda	2019-09-25
+Africa/Lagos	4.74161	7.62789	good	Ilesa	2017/09/27
+Asia/Tashkent	69.67639	41.29444	good	Parkent	2022/09/24
+America/New_York	-73.97069	40.64621	accep	Kensington	2020/09/20
+America/Mexico_City	-97.35992	19.8173	excellent	Teziutlan	10/12/2019, 00:00:00
+Asia/Dhaka	91.84128	22.83957	maintenance	Manikchari	30 Jun 2022
+Australia/Sydney	150.60036	-34.88422	average	Nowra	2021/08/03
+Asia/Kolkata	71.21169	21.59983	accep	Amreli	08/15/2014, 00:00:00
+America/El_Salvador	-89.71472	13.73417	accep	Sonzacate	27 May 2022
+Pacific/Port_Moresby	144.23058	-5.85746	average	Mount Hagen	09/07/2020, 00:00:00
+Europe/Rome	8.88104	45.79377	excellent	Malnate	2022/06/08
+America/Panama	-79.62603	8.88988	good	Veracruz	2018/10/24
+Europe/Kiev	33.9162	51.67822	good	Hlukhiv	2014-01-26
+Europe/London	-2.12139	52.48173	good	Brierley Hill	28 Mar 2017
+America/Chicago	-86.78777	33.44872	building	Vestavia Hills	03/09/2022, 00:00:00
+Europe/London	-2.09814	57.14369	good	Aberdeen	2018/09/08
+Asia/Manila	120.4861	16.0438	good	Manaoag	04/19/2022, 00:00:00
+Asia/Shanghai	120.14278	32.50611	accep	Jiangyan	24 Feb 2019
+America/Boise	-116.56346	43.54072	accep	Nampa	07/04/2022, 00:00:00
+America/Bogota	-73.9614	10.15031	average	El Copey	11/27/2019, 00:00:00
+Africa/Accra	-1.98956	5.30383	good	Tarkwa	17 Jan 2015
+Europe/Rome	8.55552	40.72586	good	Sassari	2016-10-30
+Africa/Dar_es_Salaam	37.00438	-7.60361	accep	Kidodi	06/17/2021, 00:00:00
+Africa/Conakry	-13.68778	9.535	average	Camayenne	12 Aug 2019
+Europe/Paris	2.18967	48.8765	average	Rueil-Malmaison	2014/03/27
+Asia/Manila	124.3697	9.6531	maintenance	Jagna	30 Aug 2022
+Asia/Karachi	73.38333	31.71667	good	Sangla Hill	2015/08/15
+America/Los_Angeles	-122.40433	37.71715	good	Visitacion Valley	31 Oct 2012
+America/Caracas	-62.64102	8.35122	good	Ciudad Guayana	11/25/2013, 00:00:00
+Asia/Dili	125.21972	-8.99167	good	Maliana	2012-12-20
+Asia/Kolkata	72.85107	19.30157	average	Bhayandar	2015/12/04
+Europe/Paris	2.12213	48.8222	excellent	Le Chesnay	10/29/2019, 00:00:00
+Asia/Phnom_Penh	102.56365	13.65805	average	Paoy Paet	01/20/2014, 00:00:00
+Pacific/Honolulu	-156.47432	20.88953	good	Kahului	28 May 2016
+Asia/Jakarta	99.1625	3.3285	good	Tebingtinggi	08/01/2013, 00:00:00
+Asia/Shanghai	120.03308	28.88162	good	Guli	04/23/2013, 00:00:00
+Europe/Amsterdam	4.47124	51.95838	average	Schiebroek	2015/06/23
+Asia/Bangkok	99.96667	8.43333	excellent	Nakhon Si Thammarat	2019/08/10
+Africa/Conakry	-13.68778	9.535	accep	Camayenne	03 Jul 2016
+America/Los_Angeles	-120.93549	37.73604	good	Riverbank	2013-07-07
+America/Los_Angeles	-122.86705	45.49428	good	Aloha	2021-04-09
+Europe/Berlin	11.34046	50.72043	average	Rudolstadt	28 Oct 2019
+America/Sao_Paulo	-45.94722	-21.42917	average	Alfenas	2013/03/19
+America/Los_Angeles	-120.93549	37.73604	building	Riverbank	2019-01-07
+Africa/Tunis	9.37082	36.08497	building	Siliana	2020/03/29
+America/New_York	-82.90375	32.54044	maintenance	Dublin	2020-12-12
+Africa/Brazzaville	15.28318	-4.26613	excellent	Brazzaville	2018/06/20
+Asia/Tokyo	137.95378	35.82756	maintenance	Ina	2021-11-14
+Asia/Tokyo	135.6	34.61667	accep	Yao	13 Jun 2020
+Asia/Tehran	47.3799	33.14447	excellent	Darreh Shahr	06/17/2014, 00:00:00
+Africa/Dar_es_Salaam	37.73333	-4.06667	average	Same	2020-02-01
+Europe/Bratislava	17.22635	48.8449	average	Skalica	25 Oct 2013
+Europe/Berlin	8.63333	52.2	accep	Kirchlengern	27 Nov 2021
+Europe/Moscow	38.02486	55.64776	maintenance	Malakhovka	01/23/2021, 00:00:00
+America/New_York	-73.89875	40.93121	accep	Yonkers	11/22/2019, 00:00:00
+America/Belem	-48.52333	-0.71667	maintenance	Soure	2016/06/06
+Europe/Vienna	16.4	48.25	average	Floridsdorf	2018/11/25
+Europe/Madrid	-1.325	38.47917	excellent	Jumilla	2013/04/15
+Europe/Moscow	39.8302	64.5635	accep	Severodvinsk	2015-04-06
+America/Los_Angeles	-122.86705	45.49428	accep	Aloha	06/27/2020, 00:00:00
+Asia/Seoul	126.665	36.6009	good	Hongseong	03/30/2020, 00:00:00
+America/Maceio	-37.65	-10.91722	excellent	Lagarto	2015-02-17
+Europe/Berlin	8.63333	52.2	accep	Kirchlengern	2013-08-14
+Europe/London	0.75	52.41667	good	Thetford	25 Oct 2018
+Asia/Shanghai	130.57211	45.75279	excellent	Boli	02/09/2014, 00:00:00
+Europe/Paris	5.55575	46.67535	average	Lons-le-Saunier	25 Apr 2014
+Asia/Yekaterinburg	60.70278	55.75556	accep	Ozersk	22 Aug 2021
+Asia/Krasnoyarsk	89.20083	55.54028	good	Sharypovo	2013-02-23
+Asia/Almaty	77.0202	43.41949	average	Otegen Batyra	04/25/2015, 00:00:00
+America/New_York	-73.89125	40.67705	good	Cypress Hills	09 Jul 2017
+Asia/Karachi	72.54064	31.82539	building	Sillanwali	10/08/2016, 00:00:00
+America/New_York	-73.89125	40.67705	good	Cypress Hills	2017-07-04
+Africa/Dar_es_Salaam	39.28333	-10.33333	maintenance	Nyangao	2014-03-13
+America/New_York	-71.05977	42.35843	average	Boston	2017/11/17
+Asia/Tokyo	129.96972	33.4425	accep	Karatsu	2021/04/07
+America/Chicago	-96.39774	30.16688	average	Brenham	13 Jan 2015
+America/Chicago	-87.88754	41.15376	building	Bourbonnais	2016/10/29
+Asia/Bishkek	73	40.93333	maintenance	Jalal-Abad	09 Apr 2014
+America/Caracas	-67.33122	10.22677	maintenance	La Victoria	02/13/2017, 00:00:00
+Europe/Berlin	9.22796	48.46458	good	Pfullingen	10/12/2016, 00:00:00
+Asia/Manila	123.99333	12.97389	accep	Sorsogon	04/09/2020, 00:00:00
+America/Los_Angeles	-122.2054	47.76232	average	Bothell	10 Dec 2018
+Europe/London	-2.68758	53.69786	excellent	Leyland	2021-11-17
+Europe/Moscow	46.10925	43.35071	good	Gudermes	2013/11/17
+Asia/Karachi	68.11759	26.9423	good	Tharu Shah	2019/09/05
+America/New_York	-73.89875	40.93121	accep	Yonkers	2015/11/16
+Africa/Dar_es_Salaam	37.73333	-4.06667	average	Same	16 Jun 2014
+Asia/Kolkata	71.30633	21.34222	good	Kundla	10 Dec 2021
+Europe/Chisinau	28.28489	48.15659	good	Soroca	2017/04/07
+Asia/Shanghai	122.08333	46.08333	good	Ulanhot	2014/01/07
+Asia/Tokyo	138.89585	36.33011	excellent	Annaka	2018/04/17
+America/Los_Angeles	-116.97725	33.92946	good	Beaumont	2013/02/05
+Asia/Jakarta	114.33333	-8.43333	maintenance	Muncar	05/28/2017, 00:00:00
+America/Chicago	-87.66561	41.8542	good	Lower West Side	2013-10-11
+America/Vancouver	-119.27337	50.26729	good	Vernon	2014-06-22
+America/New_York	-77.55777	37.52487	average	Bon Air	2016/04/15
+Europe/London	0.47713	51.39323	building	Strood	2014-03-02
+America/Sao_Paulo	-51.50361	-29.2975	average	Carlos Barbosa	2014/02/04
+America/Sao_Paulo	-41.25528	-19.32556	average	Resplendor	2020-02-29
+Asia/Manila	120.57224	15.72892	accep	Burgos	2018/11/14
+Europe/Oslo	16.54165	68.79833	building	Harstad	2013/08/18
+Asia/Novokuznetsk	85.4265	55.8736	good	Yashkino	2014-11-21
+Asia/Manila	123.758	10.20898	average	Naga	24 Dec 2018
+Asia/Shanghai	122.74754	40.85158	accep	Haicheng	2018-11-10
+Europe/Madrid	-3.53261	40.42386	maintenance	San Fernando de Henares	2013-06-12
+Africa/Tunis	10.58082	35.72917	good	Msaken	2014-06-14
+Asia/Kolkata	76.32756	9.57046	good	Kalavoor	2014-05-18
+Europe/Belgrade	22.53083	44.22639	excellent	Negotin	2012/10/10
+America/New_York	-81.26367	28.90054	excellent	Deltona	01/07/2021, 00:00:00
+Asia/Kolkata	79.41727	12.25282	excellent	Gingee	21 Jul 2018
+Asia/Shanghai	109.22921	34.65918	excellent	Yanliang	2021-06-15
+Asia/Bangkok	100.48528	14.37395	average	Bang Ban	2015/07/05
+America/Boise	-116.56346	43.54072	maintenance	Nampa	06 Apr 2021
+Asia/Tokyo	136.84186	34.4833	maintenance	Toba	2017/10/03
+Asia/Yekaterinburg	56.36091	51.78771	average	Saraktash	2017/04/14
+Africa/Algiers	2.31889	35.21222	building	Ksar Chellala	2017-09-27
+America/Sao_Paulo	-48.67028	-28.24	maintenance	Imbituba	2021/07/02
+America/Argentina/Buenos_Aires	-58.38341	-34.64966	excellent	Barracas	2013/11/07
+America/Boise	-116.56346	43.54072	accep	Nampa	2021-06-29
+America/Los_Angeles	-117.14392	32.9156	good	Mira Mesa	2019/03/31
+Europe/Kiev	25.34244	50.75932	good	Lutsk	05/29/2022, 00:00:00
+America/Bogota	-75.87877	5.6561	excellent	Andes	2019-06-12
+America/Chicago	-93.263	45.0408	accep	Columbia Heights	08/27/2014, 00:00:00
+Europe/Paris	5.4384	43.2907	good	Marseille 11	19 May 2015
+America/Denver	-111.99633	40.65995	average	Kearns	2016-02-27
+America/New_York	-83.55521	41.66394	excellent	Toledo	23 Apr 2019
+America/Los_Angeles	-117.54866	33.93113	average	Norco	2013-02-13
+America/Vancouver	-119.48568	49.88307	average	Kelowna	2015/05/16
+America/Boise	-116.56346	43.54072	excellent	Nampa	10 Jul 2014
+Europe/Paris	2.2469	48.90472	maintenance	La Garenne-Colombes	2014/04/06
+Europe/Helsinki	24.6522	60.2052	average	Espoo	09/01/2020, 00:00:00
+America/Chicago	-95.30106	32.35126	average	Tyler	06/08/2015, 00:00:00
+America/Boise	-116.56346	43.54072	building	Nampa	08/19/2013, 00:00:00
+America/New_York	-81.77285	28.54944	good	Clermont	10/25/2016, 00:00:00
+Europe/Copenhagen	12.53463	55.67938	maintenance	Frederiksberg	2019/11/21
+Asia/Baku	48.87498	38.45598	maintenance	Astara	2019-10-27
+Europe/Rome	12.6723	41.72063	accep	Ariccia	17 Oct 2021
+America/Belem	-48.52333	-0.71667	good	Soure	25 May 2018
+Australia/Perth	115.88782	-32.05251	maintenance	Willetton	09 Oct 2014
+America/Fortaleza	-42.29444	-4.24444	excellent	Barras	02/04/2014, 00:00:00
+Europe/Stockholm	17.10558	61.72744	good	Hudiksvall	17 Nov 2013
+Asia/Kolkata	73.08333	19.21667	accep	Dombivli	24 Apr 2021
+Asia/Manila	121.06761	12.35275	good	San Jose	02 Nov 2018
+Asia/Kolkata	77.9129	25.6439	maintenance	Narwar	05/09/2021, 00:00:00
+America/New_York	-71.06616	42.4251	accep	Malden	2014/11/25
+America/New_York	-78.87836	35.05266	maintenance	Fayetteville	2020-12-01
+Asia/Tokyo	137.5	34.9	excellent	Shinshiro	2014-10-11
+America/Los_Angeles	-116.97725	33.92946	excellent	Beaumont	2013-03-27
+Europe/Berlin	6.74549	49.5099	acceptable	Losheim	2014-07-07
+America/Santiago	-73.02841	-36.9256	average	Chiguayante	2017/10/19
+America/Chicago	-87.45476	41.47892	good	Schererville	02/22/2018, 00:00:00
+Europe/Moscow	32.86389	53.95278	accep	Roslavl‚Äô	2014-02-26
+Asia/Kolkata	77.23826	11.50526	maintenance	Sathyamangalam	07/10/2015, 00:00:00
+Asia/Kuching	116.10146	5.90702	good	Donggongon	15 May 2016
+Europe/Moscow	39.8302	64.5635	maintenance	Severodvinsk	05 Feb 2015
+Europe/Kiev	29.41824	45.99194	average	Artsyz	26 Oct 2014
+Europe/London	-0.2	51.65	building	Barnet	10/08/2014, 00:00:00
+Africa/Algiers	3.50309	34.15429	maitennce	Messaad	08/30/2022, 00:00:00
+Europe/London	-0.32247	50.82882	good	Lancing	2022/09/06
+America/Mexico_City	-98.1664	19.32932	building	Contla	06 Mar 2021
+America/New_York	-72.27814	42.93369	good	Keene	14 Sep 2019
+Europe/Rome	8.55552	40.72586	building	Sassari	04 Sep 2013
+Australia/Brisbane	153.10236	-27.50578	good	Carindale	2013/12/07
+Asia/Tehran	48.26258	33.86419	building	Aleshtar	06/17/2015, 00:00:00
+America/Los_Angeles	-117.23991	47.64995	average	Opportunity	2018-01-21
+America/Chicago	-87.71255	41.84364	good	South Lawndale	01/04/2014, 00:00:00
+Asia/Kuala_Lumpur	102.3278	2.2139	building	Kampung Ayer Molek	2018/07/11
+America/Argentina/Tucuman	-65.61427	-27.4338	good	Aguilares	08 Oct 2020
+America/Caracas	-62.64102	8.35122	good	Ciudad Guayana	2019-03-30
+Europe/Berlin	9.02596	48.21644	excellent	Albstadt	2019/10/31
+Asia/Shanghai	117.55417	34.86472	excellent	Zaozhuang	2022-07-13
+Europe/London	1.26738	51.84819	good	Walton-on-the-Naze	2016-07-29
+Europe/Vilnius	24.75	55.25	good	Ukmerge	2018/09/06
+Australia/Brisbane	152.70493	-25.54073	maintenance	Maryborough	07/09/2015, 00:00:00
+Asia/Bangkok	103.65309	16.0567	accep	Roi Et	2016-08-06
+Asia/Shanghai	115.04814	30.24706	excellent	Huangshi	02/04/2020, 00:00:00
+America/Chicago	-93.71133	41.57721	good	West Des Moines	2019/09/07
+Indian/Antananarivo	46.58333	-21.15	accep	Ikalamavony	2018/06/25
+America/El_Salvador	-89.71472	13.73417	maintenance	Sonzacate	07/04/2016, 00:00:00
+America/New_York	-76.51552	39.32011	excellent	Rosedale	22 Sep 2014
+Africa/Johannesburg	29.00974	-24.19436	accep	Mokopane	2013-01-11
+Europe/Berlin	8.51667	51.88333	excellent	Verl	2022-02-09
+Africa/Dar_es_Salaam	37.73333	-4.06667	accep	Same	05/04/2013, 00:00:00
+Asia/Tokyo	140.73667	41.77583	accep	Hakodate	05 Feb 2014
+Asia/Kolkata	76.35484	10.10649	good	Alwaye	2015-04-06
+Europe/Madrid	-6.03731	37.35813	accep	San Juan de Aznalfarache	2020/07/31
+Africa/Lagos	9.0027	11.86064	accep	Gaya	31 Oct 2021
+Asia/Kolkata	91.61356	26.44931	accep	Rangia	03/13/2018, 00:00:00
+Europe/Madrid	-2.98884	43.32686	maintenance	Leioa	2016/06/29
+Asia/Tokyo	138.89585	36.33011	building	Annaka	12/15/2016, 00:00:00
+America/Chicago	-102.36764	31.84568	excellent	Odessa	04 Jun 2013
+Asia/Ulaanbaatar	106.88324	47.90771	average	Ulan Bator	14 Jun 2014
+Asia/Shanghai	122.74754	40.85158	average	Haicheng	08 Feb 2014
+Europe/Moscow	38.02486	55.64776	excellent	Malakhovka	17 Jul 2020
+Europe/Berlin	7.11393	51.08468	accep	Burscheid	2014/04/17
+America/Sao_Paulo	-50.19556	-19.72806	excellent	Iturama	2016-08-20
+America/New_York	-74.15987	40.82232	excellent	Nutley	13 Nov 2015
+America/Matamoros	-97.50417	25.87972	good	Heroica Matamoros	05 Feb 2017
+America/Port_of_Spain	-61.51889	10.66668	average	Port of Spain	2015-12-23
+Asia/Yekaterinburg	59.80222	58.63667	maintenance	Lesnoy	12/27/2012, 00:00:00
+Asia/Hong_Kong	114.10479	22.37066	good	Tsuen Wan	2019-07-20
+America/New_York	-71.08977	41.9001	average	Taunton	2020/10/25
+Pacific/Auckland	178.00417	-38.65333	average	Gisborne	27 Apr 2015
+Africa/Lubumbashi	29.47306	0.49113	excellent	Beni	11/10/2013, 00:00:00
+Europe/Kiev	33.34864	46.75451	excellent	Nova Kakhovka	2020-06-17
+America/Chicago	-93.263	45.0408	maintenance	Columbia Heights	08 Mar 2013
+Europe/Rome	8.62118	45.44694	maitennce	Novara	10/12/2018, 00:00:00
+America/Mexico_City	-100.44843	20.74122	accep	Santa Rosa Jauregui	12/20/2020, 00:00:00
+Europe/Berlin	13.10984	51.30001	accep	Oschatz	2017/12/20
+Europe/London	-0.33525	53.7446	average	Kingston upon Hull	04/13/2018, 00:00:00
+Africa/Tunis	10.58082	35.72917	good	Msaken	2020-03-27
+Asia/Yekaterinburg	56.36091	51.78771	building	Saraktash	09/27/2016, 00:00:00
+Asia/Makassar	116.82887	-1.26753	average	Balikpapan	19 Feb 2015
+America/New_York	-72.86843	41.27621	accep	East Haven	02/17/2018, 00:00:00
+America/Sao_Paulo	-53.13722	-22.92306	good	Loanda	2021/09/14
+Europe/Berlin	8.86704	50.23805	building	Nidderau	07/24/2022, 00:00:00
+Africa/Dar_es_Salaam	33	-2.68333	excellent	Usagara	2016/09/10
+America/Los_Angeles	-117.71978	34.09668	maintenance	Claremont	2014/09/04
+Africa/Bangui	15.87735	4.94273	good	Carnot	2015/11/27
+Africa/Bamako	-8.07257	12.74409	excellent	Kati	05/04/2015, 00:00:00
+Europe/Madrid	-1.64295	42.8139	building	Segundo Ensanche	12 Jun 2016
+Europe/London	-1.06667	53.78333	building	Selby	02/02/2016, 00:00:00
+Africa/Addis_Ababa	37.55	6.03333	average	Arba Minch	13 Oct 2019
+America/New_York	-73.75513	40.60538	average	Far Rockaway	2017-06-17
+America/Los_Angeles	-122.2054	47.76232	good	Bothell	2020-09-13
+Europe/Amsterdam	7.00417	52.26083	maitennce	Losser	05/18/2022, 00:00:00
+Africa/Douala	10.7	4.96667	accep	Tonga	2012-11-20
+Europe/London	-1.32471	51.40148	good	Newbury	03/18/2018, 00:00:00
+Europe/Kiev	29.41824	45.99194	excellent	Artsyz	13 Apr 2016
+Europe/London	-1.47217	53.46506	average	Chapletown	15 Jul 2020
+Asia/Kuala_Lumpur	101.02083	4.02219	average	Teluk Intan	2017/11/13
+America/New_York	-73.95958	40.57788	good	Brighton Beach	10/29/2016, 00:00:00
+Africa/Johannesburg	30.79165	-27.76952	excellent	Vryheid	06 Jul 2021
+America/Recife	-35.03333	-8.28333	average	Cabo	08/30/2018, 00:00:00
+Asia/Dushanbe	69.01354	38.55632	maintenance	Vahdat	12/27/2017, 00:00:00
+America/Mazatlan	-105.36369	22.49396	good	Acaponeta	28 Feb 2022
+Pacific/Port_Moresby	144.23058	-5.85746	excellent	Mount Hagen	28 Oct 2020
+Asia/Jakarta	107.60389	-7.01833	good	Pameungpeuk	03 Feb 2014
+Europe/London	-2.12139	52.48173	accep	Brierley Hill	23 Jul 2022
+Europe/Moscow	34.34691	61.78491	average	Petrozavodsk	2014/05/07
+Europe/Rome	12.6723	41.72063	accep	Ariccia	2021-04-01
+Europe/Moscow	34.33825	53.59782	accep	Dyat‚Äôkovo	2015-05-04
+America/Sao_Paulo	-46.99583	-22.97056	excellent	Valinhos	2021-06-05
+Africa/Tunis	9.37082	36.08497	excellent	Siliana	23 Sep 2015
+Asia/Kolkata	88.1453	22.4711	average	Pujali	2014/04/09
+Europe/London	1.15597	51.78967	good	Clacton-on-Sea	27 Feb 2015
+Europe/Berlin	13.31783	52.61131	average	Hermsdorf	21 Apr 2021
+Indian/Reunion	55.4504	-20.88231	good	Saint-Denis	25 May 2015
+Asia/Shanghai	122.20488	29.98869	good	Zhoushan	2014/06/25
+Asia/Manila	121.06761	12.35275	accep	San Jose	2013/07/11
+Pacific/Auckland	171.25364	-44.39672	building	Timaru	09 Nov 2021
+Asia/Tehran	48.26258	33.86419	excellent	Aleshtar	2014-12-12
+Asia/Kolkata	76.11996	11.12018	average	Manjeri	2013/12/18
+Europe/Kiev	29.41824	45.99194	building	Artsyz	02/27/2018, 00:00:00
+America/La_Paz	-65.71875	-21.44345	good	Tupiza	09/23/2015, 00:00:00
+Asia/Tokyo	136.84186	34.4833	average	Toba	2022/01/09
+Europe/London	1.15597	51.78967	excellent	Clacton-on-Sea	11/13/2012, 00:00:00
+Europe/Rome	12.6723	41.72063	average	Ariccia	2018-07-25
+America/Los_Angeles	-117.23991	47.64995	accep	Opportunity	2019-07-28
+Europe/London	-2.98333	53.83333	good	Poulton-le-Fylde	07 May 2018
+Asia/Bangkok	101.18445	13.44581	good	Phanat Nikhom	2014/09/02
+Europe/Rome	12.6723	41.72063	maintenance	Ariccia	01/27/2020, 00:00:00
+Africa/Lagos	4.92235	7.65649	average	Efon-Alaaye	08/19/2016, 00:00:00
+Asia/Shanghai	122.05228	37.19723	average	Tianfu	10/16/2019, 00:00:00
+Europe/Tallinn	28.19028	59.37722	building	Narva	04/30/2013, 00:00:00
+America/Argentina/Buenos_Aires	-60.47389	-34.64167	average	Chacabuco	10/21/2016, 00:00:00
+America/New_York	-73.9625	40.81	excellent	Morningside Heights	2018/12/12
+America/Chicago	-88.3162	42.24113	average	Crystal Lake	2019/03/03
+Australia/Sydney	151.07986	-33.88096	building	Strathfield	2015-10-24
+Africa/Lagos	3.64633	6.8485	accep	Shagamu	2021-09-18
+Europe/Kiev	30.96755	49.07866	good	Zvenihorodka	08 Mar 2022
+America/Chicago	-89.99038	38.58894	maintenance	Fairview Heights	08/30/2020, 00:00:00
+America/Los_Angeles	-120.45794	34.63915	maitennce	Lompoc	2018/08/21
+Europe/Rome	8.62118	45.44694	building	Novara	18 Jul 2019
+Asia/Shanghai	118.53333	27.92333	good	Pucheng	2014/03/06
+Europe/Berlin	8.63333	52.2	good	Kirchlengern	12 Jan 2022
+Europe/London	-1.32471	51.40148	good	Newbury	2015/11/13
+Asia/Makassar	118.9707	-3.5403	maintenance	Majene	2016/08/16
+Asia/Yangon	98.19151	14.0823	building	Dawei	30 Apr 2015
+America/New_York	-69.96533	43.91452	accep	Brunswick	04/11/2019, 00:00:00
+America/New_York	-72.97261	43.61062	accep	Rutland	2020-11-16
+Europe/Rome	14.01481	42.67164	average	Roseto degli Abruzzi	05/20/2017, 00:00:00
+Asia/Bangkok	101.18445	13.44581	good	Phanat Nikhom	08 Jan 2018
+America/Chicago	-93.263	45.0408	average	Columbia Heights	01/03/2014, 00:00:00
+Europe/Brussels	4.21372	51.12794	average	Temse	11/20/2019, 00:00:00
+America/New_York	-82.32483	29.65163	excellent	Gainesville	2022-01-15
+Asia/Kolkata	77.9129	25.6439	building	Narwar	2015/11/27
+Europe/Dublin	-7.95	53.43333	building	Athlone	2013/12/13
+Asia/Jerusalem	34.86563	31.92923	good	Ramla	22 Jul 2018
+America/Chicago	-98.15529	26.18924	average	San Juan	26 Apr 2015
+Europe/Madrid	-2.77259	37.49073	accep	Baza	01 Sep 2017
+America/Chicago	-93.263	45.0408	building	Columbia Heights	05/01/2022, 00:00:00
+Europe/Istanbul	28.88222	40.37528	maintenance	Mudanya	01/16/2021, 00:00:00
+America/Mexico_City	-101.2591	21.01858	good	Guanajuato	2021-09-09
+Europe/Brussels	4.52529	50.71229	building	Rixensart	10/06/2021, 00:00:00
+Europe/Moscow	40.17171	58.1908	good	Danilov	2018-11-13
+Europe/Rome	13.57661	37.31065	excellent	Agrigento	2015-02-04
+Asia/Kolkata	74.83554	14.62072	acceptable	Sirsi	2018/01/22
+Asia/Shanghai	109.22921	34.65918	maintenance	Yanliang	2016/05/03
+Europe/Istanbul	40.74357	37.31309	building	Mardin	2021-07-07
+Asia/Kolkata	74.85849	31.28092	good	Patti	02/08/2017, 00:00:00
+Europe/London	-1.06667	53.78333	good	Selby	2020/02/29
+America/New_York	-83.55521	41.66394	good	Toledo	2016-06-23
+America/New_York	-73.95097	40.72371	accep	Greenpoint	12 Dec 2013
+America/Chicago	-89.99038	38.58894	accep	Fairview Heights	2016/05/02
+Africa/Lagos	3.39467	6.45407	building	Lagos	2016-07-13
+Asia/Bangkok	100.48528	14.37395	accep	Bang Ban	2022/07/13
+Asia/Kolkata	83.36889	26.76628	average	Gorakhpur	08/20/2016, 00:00:00
+Asia/Tokyo	135.31667	34.25	excellent	Iwade	14 Sep 2013
+Asia/Kolkata	77.24779	10.58806	excellent	Udumalaippettai	2016/02/23
+America/Sao_Paulo	-50.19556	-19.72806	accep	Iturama	2021/03/25
+America/Santarem	-52.20639	-3.20333	building	Altamira	2012/11/16
+Europe/London	-3.05	53.81667	accep	Blackpool	2014-09-26
+America/Santiago	-73.02841	-36.9256	good	Chiguayante	2012/11/13
+Asia/Yekaterinburg	59.4839	58.7002	excellent	Kachkanar	23 Apr 2014
+America/Sao_Paulo	-42.19667	-21.41222	building	Miracema	08/12/2021, 00:00:00
+Europe/Tallinn	28.19028	59.37722	excellent	Narva	2012-12-08
+Europe/Berlin	7.36027	51.20219	average	Radevormwald	2013/08/28
+Europe/Dublin	-7.95	53.43333	accep	Athlone	06/06/2018, 00:00:00
+Europe/Berlin	6.26667	51.21667	accep	Schwalmtal	2014/10/25
+Asia/Manila	120.56528	14.66	maintenance	Pilar	2013-01-08
+Europe/Rome	12.6723	41.72063	average	Ariccia	2014-08-16
+Asia/Shanghai	117.7	35.85	average	Dongdu	2019/02/24
+America/Chicago	-86.77917	36.02506	average	Brentwood Estates	16 Apr 2019
+America/New_York	-74.28459	40.5576	good	Woodbridge	09/16/2015, 00:00:00
+Asia/Bangkok	100.04427	13.8196	average	Nakhon Pathom	28 Oct 2021
+Asia/Kolkata	83.36889	26.76628	average	Gorakhpur	2016/12/22
+America/Santiago	-71.23106	-32.45242	good	La Ligua	24 May 2013
+Europe/Moscow	43.67663	53.53041	excellent	Nizhniy Lomov	2018-03-09
+America/New_York	-71.29144	41.54566	average	Middletown	2021-11-21
+Asia/Ho_Chi_Minh	105.75635	10.29085	good	Sa Dec	2015-12-27
+Asia/Karachi	70.91106	29.38242	good	Alipur	2014-08-26
+Asia/Kolkata	75.92694	14.46693	maintenance	Davangere	2017-05-14
+America/Bogota	-72.47417	7.83389	average	Villa del Rosario	04 Apr 2013
+Europe/Rome	12.70038	45.9836	maintenance	Cordenons	2020-05-04
+America/Santiago	-71.19901	-30.60106	building	Ovalle	2013-01-22
+America/Mexico_City	-103.5687	20.22816	good	Zacoalco de Torres	2021/04/14
+America/Edmonton	-113.3187	53.51684	accep	Sherwood Park	2021-06-18
+Africa/Lagos	5.06258	7.50251	good	Igbara-Odo	01/08/2016, 00:00:00
+Asia/Kolkata	73.66633	25.92493	maintenance	Sojat	09/14/2014, 00:00:00
+Africa/Cairo	29.91582	31.20176	accep	Alexandria	2013-02-13
+America/New_York	-82.46148	28.15112	accep	Lutz	2019/10/02
+America/Recife	-34.88111	-8.05389	acceptable	Recife	2021/03/30
+Asia/Kolkata	77.656	28.71271	building	Pilkhua	2017/11/27
+Europe/London	-0.32247	50.82882	good	Lancing	03/18/2019, 00:00:00
+America/New_York	-80.22588	26.2173	good	North Lauderdale	2013-10-01
+Asia/Shanghai	112.19028	30.35028	accep	Jingzhou	2016-01-10
+America/New_York	-73.89875	40.93121	excellent	Yonkers	2021/11/15
+Europe/Moscow	53.26023	54.39304	good	Bavly	2016-10-04
+Africa/Cairo	31.4976	26.67319	accep	Juhaynah	21 Jun 2019
+Europe/London	-1.99421	51.35084	accep	Devizes	2014/12/21
+America/Los_Angeles	-117.54866	33.93113	accep	Norco	2021/10/30
+Europe/London	-3.05	53.81667	excellent	Blackpool	2017/08/24
+America/Chicago	-91.06177	33.41012	average	Greenville	2021-10-09
+Europe/Paris	-1.05366	43.71032	maintenance	Dax	2016-08-04
+Africa/Bamako	-8.07257	12.74409	building	Kati	06/16/2022, 00:00:00
+America/Sao_Paulo	-49.27306	-25.42778	average	Curitiba	08/12/2014, 00:00:00
+America/Chicago	-88.27205	44.27804	average	Kaukauna	10 Sep 2016
+Asia/Shanghai	122.05228	37.19723	excellent	Tianfu	23 Feb 2016
+America/Chicago	-91.06177	33.41012	accep	Greenville	2014-04-16
+America/New_York	-82.07842	26.91756	average	Punta Gorda Isles	2014/01/05
+Europe/Kiev	31.33078	47.56494	excellent	Voznesensk	2012-11-27
+Europe/Rome	7.60872	43.78956	excellent	Ventimiglia	18 Oct 2018
+America/Los_Angeles	-122.24092	47.4943	good	Bryn Mawr-Skyway	2015/11/02
+Europe/Paris	2.29026	48.77644	excellent	Sceaux	2012-09-27
+Africa/Algiers	2.95924	36.76775	good	Cheraga	2020/12/31
+Europe/London	-1.47217	53.46506	good	Chapletown	2017-08-12
+Europe/Paris	5.4384	43.2907	accep	Marseille 11	2020-11-15
+Asia/Yekaterinburg	56.36091	51.78771	accep	Saraktash	02 Jun 2017
+Europe/Berlin	7.02238	52.21099	building	Gronau	31 Mar 2017
+Asia/Kolkata	91.61356	26.44931	average	Rangia	14 Aug 2016
+Africa/Dar_es_Salaam	38.01667	-5.41667	average	Chanika	11/11/2020, 00:00:00
+Australia/Melbourne	145.13643	-38.16604	excellent	Frankston South	06 Jan 2015
+Europe/Berlin	13.28702	52.4581	accep	Dahlem	2020-12-26
+Europe/Moscow	34.33825	53.59782	accep	Dyat‚Äôkovo	2013/05/22
+Europe/London	-0.36053	51.64316	accep	Bushey	2020-09-27
+America/Argentina/Ushuaia	-68.3	-54.8	building	Ushuaia	2016/05/31
+Asia/Kolkata	73.7553	15.5439	excellent	Calangute	2016/01/31
+Asia/Kolkata	78.27539	12.95629	excellent	Robertsonpet	2016-07-05
+America/Vancouver	-119.48568	49.88307	building	Kelowna	2014-02-19
+America/Mexico_City	-97.35992	19.8173	excellent	Teziutlan	2015/11/09
+Europe/Zaporozhye	36.25361	47.48444	good	Polohy	2016-09-28
+Europe/Amsterdam	6.92917	52.31333	good	Oldenzaal	09/24/2014, 00:00:00
+Europe/Prague	12.87117	50.23271	accep	Karlovy Vary	2019-10-20
+Europe/Istanbul	28.67582	40.98894	excellent	Yakuplu	08/01/2017, 00:00:00
+America/New_York	-72.97261	43.61062	average	Rutland	2019-06-24
+Europe/London	1.15597	51.78967	average	Clacton-on-Sea	2019/06/03
+Africa/Nairobi	34.11169	0.46005	excellent	Busia	2015-11-11
+America/Caracas	-62.64102	8.35122	excellent	Ciudad Guayana	2013/01/13
+America/New_York	-81.77285	28.54944	good	Clermont	2019/02/22
+Europe/Moscow	37.92792	53.93361	average	Kireyevsk	2014-04-19
+Asia/Shanghai	112.9	27.85	good	Xiangtan	2022/05/21
+America/Bogota	-74.95472	10.98778	good	Puerto Colombia	2013-03-20
+America/New_York	-74.13653	40.63316	average	Port Richmond	01/29/2013, 00:00:00
+America/Sao_Paulo	-46.99583	-22.97056	excellent	Valinhos	14 Mar 2022
+America/Chicago	-86.77917	36.02506	good	Brentwood Estates	2016-12-23
+Asia/Tokyo	139.6853	35.815	accep	Shimotoda	2018/01/02
+Europe/Rome	12.38878	43.1122	average	Perugia	2015-05-25
+Asia/Bangkok	99.95469	13.51825	accep	Damnoen Saduak	2013/02/21
+America/Argentina/Tucuman	-65.61427	-27.4338	good	Aguilares	2020/10/23
+Europe/Paris	2.29026	48.77644	excellent	Sceaux	2019-10-04
+Africa/Kigali	30.4347	-1.9487	maitennce	Rwamagana	2015/12/22
+Europe/Rome	14.01481	42.67164	excellent	Roseto degli Abruzzi	2017/03/15
+America/New_York	-73.75513	40.60538	accep	Far Rockaway	2021-09-11
+America/Havana	-82.00919	23.04419	building	Jaruco	2019/02/26
+Europe/London	-1.29243	53.49389	average	Mexborough	2015-09-19
+America/New_York	-80.31727	25.67927	maintenance	Kendall	26 Oct 2021
+Asia/Tokyo	144.09638	43.82634	good	Motomachi	25 Sep 2015
+Asia/Karachi	75.06583	32.17629	accep	Fazilpur	27 May 2021
+Europe/Paris	2.2469	48.90472	accep	La Garenne-Colombes	2018-12-06
+Africa/Porto-Novo	2.59753	8.88649	accep	Tchaourou	2017-11-05
+Europe/Madrid	-8.2194	43.48961	maintenance	Ferrol	2020/05/20
+Asia/Jakarta	112.23109	-7.57897	accep	Diwek	2022-06-02
+America/Chicago	-97.90308	31.12406	good	Copperas Cove	08/16/2016, 00:00:00
+Europe/Madrid	-6.03731	37.35813	accep	San Juan de Aznalfarache	20 Aug 2022
+America/Sao_Paulo	-47.53028	-22.45667	average	Santa Gertrudes	11/07/2018, 00:00:00
+America/Santarem	-52.20639	-3.20333	good	Altamira	2017-04-19
+Europe/London	-1.47217	53.46506	good	Chapletown	02 Dec 2018
+America/Bahia	-39.25	-12.91667	good	Muritiba	2013-07-08
+Europe/Moscow	37.92792	53.93361	maintenance	Kireyevsk	15 Feb 2022
+Asia/Tokyo	137.4	34.81667	maintenance	Toyokawa	08/29/2013, 00:00:00
+Europe/Rome	16.50104	41.24264	good	Bisceglie	2018-08-03
+Asia/Yekaterinburg	60.70278	55.75556	average	Ozersk	2019/12/22
+America/Sao_Paulo	-53.13722	-22.92306	good	Loanda	18 Nov 2015
+America/Mexico_City	-93.11308	16.75973	maintenance	Tuxtla	2016/12/14
+Asia/Shanghai	115.70111	37.73222	good	Hengshui	16 Nov 2016
+Europe/Rome	15.07041	37.49223	accep	Catania	2018/04/29
+America/New_York	-77.96389	39.45621	building	Martinsburg	2022-07-29
+America/Los_Angeles	-117.79394	33.76446	maintenance	North Tustin	2013/03/02
+Europe/Berlin	7.36027	51.20219	accep	Radevormwald	06 Jul 2014
+Asia/Kolkata	85.94001	25.49043	accep	Teghra	07/25/2022, 00:00:00
+Europe/Berlin	8.77155	50.23019	excellent	Karben	11 Dec 2015
+Africa/Lagos	4.74161	7.62789	excellent	Ilesa	2022-09-14
+Africa/Mogadishu	42.54536	-0.35817	building	Kismayo	2018/01/15
+America/Sao_Paulo	-43.80139	-20.25333	excellent	Itabirito	22 Mar 2021
+Europe/Madrid	-8.2194	43.48961	good	Ferrol	16 Jun 2021
+Europe/London	-2.09814	57.14369	excellent	Aberdeen	2013/12/07
+Europe/Berlin	9.15214	49.97704	maintenance	Aschaffenburg	2019-11-28
+America/Jamaica	-76.78319	18.00747	average	New Kingston	11/10/2017, 00:00:00
+Asia/Almaty	84.87144	47.46657	accep	Zaysan	2019-02-08
+Europe/Berlin	12.1369	51.04962	good	Zeitz	2016-10-24
+Africa/Nairobi	36.36339	0.03813	average	Nyahururu	22 Jul 2021
+America/Lima	-69.08333	-16.25	accep	Yunguyo	2018/07/22
+America/New_York	-73.0515	41.55815	average	Waterbury	01/11/2019, 00:00:00
+Asia/Karachi	71.52847	32.57756	excellent	Mianwali	10/02/2020, 00:00:00
+America/Guayaquil	-79.59415	-2.13404	average	Milagro	06 Mar 2016
+Europe/Berlin	9.72749	48.28259	excellent	Ehingen	2017-07-08
+America/Chicago	-96.39774	30.16688	accep	Brenham	2022-02-06
+America/Mexico_City	-102.04897	19.64745	building	Paracho de Verduzco	06/23/2016, 00:00:00
+Asia/Tokyo	130.94098	33.3213	accep	Hita	06/03/2022, 00:00:00
+Europe/Paris	1.6	43.11667	good	Pamiers	07/19/2018, 00:00:00
+Asia/Tokyo	130.94098	33.3213	accep	Hita	04/07/2013, 00:00:00
+Asia/Damascus	38.28402	34.5624	good	Tadmur	11/24/2018, 00:00:00
+Asia/Shanghai	114.68333	23.73333	good	Heyuan	2020-08-10
+America/Puerto_Rico	-67.15407	18.42745	average	Aguadilla	2020/06/03
+America/Sao_Paulo	-48.67028	-28.24	good	Imbituba	2013-10-01
+America/Denver	-104.22884	32.42067	maitennce	Carlsbad	2013/04/13
+Africa/Tunis	9.37082	36.08497	acceptable	Siliana	16 Nov 2021
+Europe/Brussels	3.16667	50.8	maintenance	Wevelgem	04/12/2021, 00:00:00
+Europe/Istanbul	28.67582	40.98894	building	Yakuplu	01 Sep 2022
+Europe/Moscow	38.02486	55.64776	average	Malakhovka	2018/04/10
+Asia/Kolkata	86.68363	23.49668	accep	Adra	02/20/2014, 00:00:00
+Europe/London	-4.0573	55.82737	good	Viewpark	16 Sep 2018
+Africa/Johannesburg	30.79165	-27.76952	excellent	Vryheid	02 Sep 2016
+Europe/Berlin	13.29371	52.53048	accep	Charlottenburg-Nord	2015/05/10
+Asia/Baghdad	44.02488	32.61603	excellent	Karbala	2022-06-13
+Asia/Shanghai	113.82465	23.29549	average	Licheng	12/21/2014, 00:00:00
+America/Boise	-116.56346	43.54072	accep	Nampa	14 Nov 2015
+America/Chicago	-95.30106	32.35126	good	Tyler	10/13/2013, 00:00:00
+Asia/Tokyo	142.45778	44.35056	excellent	Nayoro	01/25/2015, 00:00:00
+Africa/Algiers	4.62744	36.06386	excellent	El Achir	06/03/2019, 00:00:00
+Asia/Kolkata	74.85849	31.28092	excellent	Patti	2019/09/26
+Europe/Moscow	37.38115	55.63711	excellent	Solntsevo	04 Jul 2014
+America/Santarem	-52.20639	-3.20333	excellent	Altamira	2016/09/28
+Asia/Jakarta	106.92667	-6.91806	average	Sukabumi	01/29/2016, 00:00:00
+Europe/Rome	14.72443	36.92574	maintenance	Ragusa	24 Nov 2019
+Asia/Shanghai	115.70111	37.73222	good	Hengshui	04/08/2018, 00:00:00
+Asia/Bishkek	73	40.93333	average	Jalal-Abad	2019-07-16
+America/New_York	-81.38758	30.17746	building	Palm Valley	02 Jun 2022
+Europe/Madrid	3.1631	41.91738	excellent	Palafrugell	2017/09/27
+Asia/Barnaul	83.62389	53.30972	maintenance	Novosilikatnyy	2017/07/01
+America/New_York	-74.15987	40.82232	average	Nutley	29 Sep 2017
+Africa/Algiers	3.50309	34.15429	accep	Messaad	05/24/2021, 00:00:00
+Europe/London	-0.32247	50.82882	maintenance	Lancing	05/01/2021, 00:00:00
+Europe/Moscow	43.83992	55.39485	excellent	Arzamas	06/27/2020, 00:00:00
+Europe/London	-3.05	53.81667	good	Blackpool	2015/08/26
+Asia/Yangon	98.50893	16.68911	good	Myawadi	2019/10/24
+Europe/Berlin	12.1369	51.04962	good	Zeitz	11/09/2019, 00:00:00
+Asia/Tokyo	130.94098	33.3213	excellent	Hita	2015/05/07
+Europe/Oslo	16.54165	68.79833	average	Harstad	09/04/2016, 00:00:00
+Europe/Berlin	9.20427	48.49144	good	Reutlingen	10/13/2014, 00:00:00
+America/Los_Angeles	-117.71978	34.09668	good	Claremont	2015-09-10
+Europe/Madrid	2.35739	41.63976	accep	Cardedeu	02/22/2015, 00:00:00
+Asia/Hong_Kong	114.10479	22.37066	maintenance	Tsuen Wan	2015-11-03
+America/Sao_Paulo	-41.88778	-21.205	building	Itaperuna	2018-11-10
+Africa/Dar_es_Salaam	37.73333	-4.06667	building	Same	2014/01/05
+Europe/Skopje	21.32778	42	building	Saraj	03/18/2016, 00:00:00
+America/New_York	-84.20299	39.43534	good	Lebanon	09/16/2020, 00:00:00
+America/Los_Angeles	-120.93549	37.73604	excellent	Riverbank	2016/04/24
+America/New_York	-74.13653	40.63316	accep	Port Richmond	01 Jan 2017
+Asia/Kuching	116.10146	5.90702	excellent	Donggongon	2013/02/12
+Europe/London	-0.74934	51.62907	good	High Wycombe	06/17/2020, 00:00:00
+America/Maceio	-37.07167	-10.91111	excellent	Aracaju	01/09/2015, 00:00:00
+America/Mexico_City	-98.11889	19.04222	accep	Casa Blanca	2019/01/17
+Asia/Seoul	127.08472	36.20389	average	Nonsan	2019-09-17
+Europe/Berlin	8.77155	50.23019	good	Karben	2017/08/08
+Europe/Paris	5.4584	43.32393	average	Les Olives	2016-08-10
+Asia/Ulaanbaatar	106.88324	47.90771	maintenance	Ulan Bator	2017/12/25
+Europe/Moscow	30.38167	59.80917	maintenance	Shushary	30 Aug 2013
+Australia/Perth	115.8614	-31.95224	average	Perth	2020-06-23
+America/Chicago	-87.71255	41.84364	building	South Lawndale	2022-02-09
+Indian/Antananarivo	47.31667	-19.65	average	Antanifotsy	2017/03/26
+Europe/London	0.75	52.41667	maintenance	Thetford	2019/04/13
+Asia/Karachi	75.06583	32.17629	building	Fazilpur	2022-05-15
+America/La_Paz	-65.71875	-21.44345	excellent	Tupiza	16 Mar 2017
+Europe/Paris	4.8951	44.92801	excellent	Valence	15 Nov 2013
+Europe/London	-0.76667	53.38333	excellent	Gainsborough	2017/07/15
+Europe/Moscow	37.56667	55.85	accep	Likhobory	03/14/2020, 00:00:00
+Europe/Paris	5.03586	43.83125	accep	Cavaillon	2020-01-02
+America/Los_Angeles	-117.54866	33.93113	average	Norco	04/18/2018, 00:00:00
+Europe/Berlin	10.98461	48.35693	accep	Friedberg	2014-08-23
+America/Mexico_City	-102.04897	19.64745	accep	Paracho de Verduzco	2018/02/07
+Asia/Tokyo	136.51667	35	good	Komono	03/10/2016, 00:00:00
+Asia/Shanghai	117.33333	34.85	maintenance	Taozhuang	12/15/2018, 00:00:00
+America/Detroit	-82.42491	42.97086	good	Port Huron	2013-12-12
+Europe/Berlin	8.77155	50.23019	maintenance	Karben	2015-10-19
+America/Los_Angeles	-119.0376	34.21639	good	Camarillo	01/26/2014, 00:00:00
+Europe/London	-0.33525	53.7446	accep	Kingston upon Hull	2017-11-01
+Europe/Rome	17.80774	40.55851	excellent	Mesagne	2015/02/07
+Europe/Amsterdam	6.61944	52.57583	average	Hardenberg	07 Jun 2021
+Asia/Bangkok	99.95469	13.51825	good	Damnoen Saduak	02 Dec 2020
+Asia/Kolkata	85.37752	22.10194	average	Barbil	08/18/2013, 00:00:00
+America/Fortaleza	-41.45861	-4.42472	excellent	Pedro II	2019/06/11
+America/Argentina/Ushuaia	-68.3	-54.8	good	Ushuaia	22 Apr 2019
+Asia/Karachi	68.11759	26.9423	maintenance	Tharu Shah	2013/03/10
+Asia/Kolkata	71.57737	21.53889	accep	Gariadhar	2017-01-25
+America/Port-au-Prince	-72.22625	18.57677	maitennce	Croix-des-Bouquets	2021-04-20
+America/Mexico_City	-103.5687	20.22816	maintenance	Zacoalco de Torres	18 Mar 2020
+America/Santo_Domingo	-71.10077	18.20854	excellent	Santa Cruz de Barahona	01/20/2018, 00:00:00
+Europe/London	-3.52751	50.7236	accep	Exeter	2017/03/15
+America/Manaus	-58.44417	-3.14306	good	Itacoatiara	2020-07-18
+Europe/Malta	14.51472	35.89972	maintenance	Valletta	2018-08-29
+Asia/Kolkata	81.54855	26.2649	building	Jais	02/10/2015, 00:00:00
+Europe/Madrid	3.1631	41.91738	building	Palafrugell	02/15/2020, 00:00:00
+America/New_York	-75.60804	39.96097	building	West Chester	2021-08-27
+Europe/Saratov	46.04833	51.40944	accep	Privolzhskiy	2022-01-20
+America/Sao_Paulo	-41.25528	-19.32556	maintenance	Resplendor	2022-09-25
+Europe/Madrid	-4.10734	38.68712	accep	Puertollano	05 Mar 2016
+America/Los_Angeles	-122.24092	47.4943	excellent	Bryn Mawr-Skyway	2022-08-09
+America/New_York	-78.87836	35.05266	accep	Fayetteville	2016-04-14
+Europe/Brussels	4.69889	50.56149	average	Gembloux	2013-06-06
+Asia/Shanghai	112.9	27.85	good	Xiangtan	2019/07/24
+Asia/Kolkata	78.55757	17.34769	average	Lal Bahadur Nagar	07/24/2019, 00:00:00
+Africa/Johannesburg	29.24152	-26.93366	maintenance	Standerton	2012/12/28
+Africa/Dar_es_Salaam	37.00438	-7.60361	maitennce	Kidodi	2020/02/02
+Europe/Madrid	-2.77259	37.49073	good	Baza	2020/05/29
+Europe/Moscow	37.56667	55.85	excellent	Likhobory	09 Oct 2015
+Asia/Makassar	118.9707	-3.5403	excellent	Majene	2018-05-10
+America/Los_Angeles	-123.02621	44.99012	building	Keizer	16 Feb 2020
+America/Mexico_City	-102.04897	19.64745	building	Paracho de Verduzco	10 Apr 2022
+Asia/Shanghai	117.33333	34.85	average	Taozhuang	2015/11/18
+Africa/Bamako	-8.07257	12.74409	good	Kati	2016-05-26
+Asia/Kolkata	78.95693	29.21399	average	Kashipur	2012/12/26
+Asia/Phnom_Penh	102.56365	13.65805	excellent	Paoy Paet	17 Jul 2018
+Europe/London	-2.58736	56.56317	average	Arbroath	01/04/2018, 00:00:00
+Europe/Madrid	2.35739	41.63976	average	Cardedeu	2020-08-12
+America/Chicago	-99.73314	32.44874	accep	Abilene	2018-12-03
+America/Chicago	-95.63079	31.76212	acceptable	Palestine	10/08/2019, 00:00:00
+America/Los_Angeles	-117.79394	33.76446	average	North Tustin	07/28/2013, 00:00:00
+Europe/Sofia	24.71204	41.57439	average	Smolyan	12 Sep 2013
+Australia/Brisbane	152.70493	-25.54073	average	Maryborough	2017/02/10
+Africa/Ndjamena	18.69303	12.18441	accep	Mongo	2018-02-03
+Europe/London	-2.58736	56.56317	building	Arbroath	2021/02/12
+Asia/Kolkata	78.55757	17.34769	accep	Lal Bahadur Nagar	20 Dec 2012
+Europe/Brussels	4.07601	50.88506	good	Denderleeuw	2021/10/21
+Asia/Bangkok	103.65309	16.0567	excellent	Roi Et	2018-07-18
+America/Chicago	-97.90308	31.12406	average	Copperas Cove	02 Feb 2013
+Asia/Kolkata	74.3092	33.37526	average	Rajaori	2016/06/25
+Europe/Podgorica	18.84	42.28639	excellent	Budva	08/21/2018, 00:00:00
+America/Vancouver	-119.48568	49.88307	accep	Kelowna	2015/09/15
+Europe/Berlin	8.4493	50.09019	good	Hofheim am Taunus	2016-10-20
+Europe/Kiev	27.06365	50.18545	excellent	Shepetivka	31 Mar 2015
+Asia/Kuching	116.10146	5.90702	accep	Donggongon	29 Dec 2020
+America/Chicago	-97.90308	31.12406	building	Copperas Cove	2017-03-25
+Europe/Moscow	38.12408	53.77166	average	Bogoroditsk	2015-09-17
+Africa/Lagos	4.92235	7.65649	excellent	Efon-Alaaye	09/27/2013, 00:00:00
+Europe/London	-1.08593	50.79205	accep	Southsea	2022-05-27
+Europe/Vienna	15.46667	47.05	accep	Sankt Peter	2020/10/19
+Asia/Damascus	38.28402	34.5624	maintenance	Tadmur	06/22/2018, 00:00:00
+America/Chicago	-87.71255	41.84364	average	South Lawndale	2022-06-13
+Asia/Shanghai	112.19028	30.35028	average	Jingzhou	2016-08-14
+Asia/Tokyo	140.73667	41.77583	good	Hakodate	12/25/2019, 00:00:00
+America/Los_Angeles	-116.21677	33.7207	good	Indio	2015/12/27
+America/Manaus	-58.44417	-3.14306	average	Itacoatiara	12/28/2018, 00:00:00
+Africa/Windhoek	16.91667	-21.98333	building	Okahandja	01/08/2014, 00:00:00
+Europe/Madrid	-1.86343	38.10558	maintenance	Caravaca	06 Feb 2016
+America/New_York	-83.55521	41.66394	accep	Toledo	2020-05-28
+Asia/Kolkata	74.83554	14.62072	average	Sirsi	2018-05-26
+Europe/Rome	9.32241	44.31771	maintenance	Chiavari	2013-01-12
+Africa/Tunis	10.03478	37.16911	accep	El Alia	2020/07/09
+Europe/Madrid	2.35739	41.63976	accep	Cardedeu	27 Dec 2020
+Asia/Bangkok	99.89166	15.46063	excellent	Thap Than	09/01/2017, 00:00:00
+Europe/Rome	8.62118	45.44694	average	Novara	11/01/2020, 00:00:00
+Europe/Rome	7.60872	43.78956	good	Ventimiglia	2016/10/12
+America/Sao_Paulo	-51.50361	-29.2975	accep	Carlos Barbosa	2018-10-22
+Europe/Paris	2.25	50.75	average	Saint-Omer	07 Oct 2013
+Europe/Madrid	2.18247	41.41204	good	el Camp de l'Arpa del Clot	08/06/2014, 00:00:00
+Africa/Blantyre	34.4587	-13.7804	building	Salima	2019/03/16
+Europe/Dublin	-7.35	53.53333	good	An Muileann gCearr	2020/06/30
+Africa/Lagos	4.52514	12.74482	building	Argungu	2019/09/03
+Africa/Dar_es_Salaam	35.7	-7.76667	excellent	Iringa	30 Jun 2017
+Australia/Brisbane	152.70493	-25.54073	good	Maryborough	04/24/2022, 00:00:00
+Europe/Berlin	9.15214	49.97704	good	Aschaffenburg	03 Apr 2017
+America/Maceio	-37.65	-10.91722	average	Lagarto	13 May 2019
+Australia/Brisbane	152.70493	-25.54073	accep	Maryborough	2019/12/14
+Asia/Kuala_Lumpur	100.24529	5.4709	acceptable	Batu Feringgi	27 Aug 2016
+America/Vancouver	-119.27337	50.26729	accep	Vernon	09 Apr 2013
+America/Mexico_City	-102.04897	19.64745	building	Paracho de Verduzco	2017/05/15
+Asia/Kolkata	86.68363	23.49668	good	Adra	2019-04-01
+Australia/Brisbane	152.70493	-25.54073	average	Maryborough	2021/04/15
+Europe/Paris	-1.05366	43.71032	good	Dax	26 Sep 2014
+Europe/Madrid	1.10687	41.15612	good	Reus	16 Nov 2019
+Asia/Novokuznetsk	85.4265	55.8736	average	Yashkino	2013-05-07
+Europe/Dublin	-7.35	53.53333	excellent	An Muileann gCearr	06 Sep 2015
+Asia/Shanghai	120.03308	28.88162	acceptable	Guli	05 Dec 2017
+Asia/Dili	125.21972	-8.99167	accep	Maliana	2017-04-27
+Europe/Chisinau	28.28489	48.15659	average	Soroca	2012/11/13
+America/Los_Angeles	-118.25508	34.14251	good	Glendale	11 May 2014
+Europe/Rome	13.57661	37.31065	excellent	Agrigento	04/13/2018, 00:00:00
+America/Los_Angeles	-122.2054	47.76232	accep	Bothell	2013-03-27
+Africa/Douala	9.00472	4.2475	average	Idenao	2021/08/26
+America/Mexico_City	-100.88023	20.21322	good	Salvatierra	2015-07-14
+Europe/London	0.75	52.41667	excellent	Thetford	2021-02-09
+Europe/Berlin	8.63333	52.2	average	Kirchlengern	2016-03-24
+Europe/Prague	13.63617	50.50301	average	Most	2021/06/01
+Europe/Amsterdam	5.2875	51.65333	accep	Vught	2016-10-10
+America/Chicago	-86.78777	33.44872	excellent	Vestavia Hills	04/12/2021, 00:00:00
+Asia/Urumqi	86.00214	46.51872	building	Hoxtolgay	2018/08/30
+America/New_York	-77.37331	37.60876	average	Mechanicsville	2016/09/23
+America/Los_Angeles	-117.23991	47.64995	excellent	Opportunity	05/11/2015, 00:00:00
+Africa/Lagos	4.52514	12.74482	good	Argungu	08 Oct 2017
+Europe/Berlin	8.51667	51.88333	accep	Verl	12/20/2014, 00:00:00
+America/New_York	-81.38758	30.17746	maintenance	Palm Valley	15 Feb 2015
+America/New_York	-72.86843	41.27621	accep	East Haven	08/20/2021, 00:00:00
+America/El_Salvador	-89.71472	13.73417	good	Sonzacate	05 Feb 2020
+America/Los_Angeles	-117.70755	33.52253	accep	Laguna Niguel	04/28/2016, 00:00:00
+America/Martinique	-60.94228	14.67751	good	Le Robert	2014-01-17
+Europe/Rome	15.00913	37.51803	accep	Misterbianco	14 Sep 2014
+America/New_York	-77.37331	37.60876	good	Mechanicsville	11/11/2015, 00:00:00
+Asia/Jakarta	113.69785	-7.73379	good	Besuki	2014-05-14
+Europe/Lisbon	-9.24671	38.72706	accep	Carnaxide	2018-06-04
+Europe/Rome	12.38878	43.1122	average	Perugia	2014-03-19
+America/Argentina/Cordoba	-60.93173	-31.4488	good	Esperanza	16 Jan 2018
+Asia/Kolkata	88.18466	22.19303	average	Diamond Harbour	2021/01/20
+Europe/Istanbul	34.37389	40.1675	maintenance	Sungurlu	2020-01-04
+Asia/Shanghai	115.70111	37.73222	accep	Hengshui	01/22/2019, 00:00:00
+Indian/Reunion	55.4504	-20.88231	building	Saint-Denis	09/17/2019, 00:00:00
+America/New_York	-81.23621	33.98154	good	Lexington	2018-12-06
+Asia/Jakarta	110.71639	-7.54972	average	Ngemplak	2021/10/26
+America/Merida	-89.66123	21.28306	excellent	Progreso	2017/10/22
+America/Los_Angeles	-117.23991	47.64995	excellent	Opportunity	06/09/2022, 00:00:00
+Asia/Kuala_Lumpur	100.24529	5.4709	average	Batu Feringgi	28 Feb 2016
+Asia/Jakarta	101.44167	0.51667	good	Pekanbaru	26 Nov 2020
+Europe/London	-1.29243	53.49389	good	Mexborough	2018/02/18
+America/Los_Angeles	-122.40433	37.71715	good	Visitacion Valley	22 Mar 2019
+Europe/Rome	17.80774	40.55851	maintenance	Mesagne	09/26/2019, 00:00:00
+America/Chicago	-88.31476	36.61033	average	Murray	2020/02/10
+Asia/Yekaterinburg	60.70278	55.75556	average	Ozersk	02 Nov 2020
+Africa/Johannesburg	29.24152	-26.93366	excellent	Standerton	2013-02-28
+Europe/Berlin	12.16179	48.52961	maintenance	Landshut	21 Feb 2016
+Asia/Shanghai	130.57211	45.75279	excellent	Boli	2013/04/07
+Europe/Rome	9.32241	44.31771	building	Chiavari	01/05/2020, 00:00:00
+Asia/Shanghai	111.50861	32.54278	building	Danjiangkou	2021/03/20
+America/Mexico_City	-97.35992	19.8173	excellent	Teziutlan	2015-02-03
+America/Chicago	-89.64066	40.56754	excellent	Pekin	2019-09-26
+America/New_York	-82.46148	28.15112	average	Lutz	08 May 2019
+Europe/Berlin	9.17702	48.78232	good	Stuttgart	12/29/2021, 00:00:00
+Asia/Baku	45.36561	41.09246	average	Qazax	10/21/2019, 00:00:00
+America/Toronto	-73.75335	45.4473	excellent	Dorval	2015/12/12
+Asia/Manila	124.84472	10.13361	good	Maasin	2013-09-06
+America/Bogota	-77.03116	3.8801	maintenance	Buenaventura	10/29/2014, 00:00:00
+Asia/Kolkata	86.59611	25.87498	building	Saharsa	21 Sep 2017
+America/New_York	-76.99081	38.96372	accep	Chillum	2017/11/02
+Europe/Brussels	4.69889	50.56149	maintenance	Gembloux	2013-03-15
+America/New_York	-73.78458	41.0051	building	Scarsdale	2019-11-09
+Europe/Samara	51.3452	53.37596	excellent	Otradnyy	2021/11/17
+America/El_Salvador	-89.10944	13.70167	good	Ilopango	07 May 2016
+Africa/Tunis	10.78222	36.46917	maintenance	Beni Khiar	2013-09-21
+Europe/London	0.47713	51.39323	excellent	Strood	2016-05-04
+America/Sao_Paulo	-43.80139	-20.25333	accep	Itabirito	25 Jul 2022
+Europe/Sofia	27.25	42.7	maintenance	Aytos	2016/10/22
+Asia/Jakarta	107.60389	-7.01833	building	Pameungpeuk	2016-06-06
+Asia/Kolkata	78.40102	27.9247	average	Chharra	2013/12/17
+Europe/Paris	5.4584	43.32393	maintenance	Les Olives	2013-09-28
+Asia/Manila	120.5875	16.455	building	La Trinidad	2019-07-30
+Europe/Amsterdam	6.76111	53.16167	maintenance	Hoogezand	12/15/2015, 00:00:00
+America/Fortaleza	-42.29444	-4.24444	building	Barras	2017-04-16
+America/Chicago	-87.65644	41.80753	good	New City	2018/03/29
+America/Chicago	-87.71255	41.84364	building	South Lawndale	2018-11-14
+Africa/Lagos	5.06258	7.50251	excellent	Igbara-Odo	2012-11-29
+Asia/Shanghai	117.33333	34.85	building	Taozhuang	2022/04/30
+Asia/Kolkata	75.96976	15.73628	accep	Gajendragarh	05/13/2018, 00:00:00
+Asia/Kolkata	79.41727	12.25282	accep	Gingee	05/31/2014, 00:00:00
+Asia/Manila	123.89071	10.31672	good	Cebu City	2014-05-05

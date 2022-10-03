@@ -1,0 +1,1088 @@
+location	revision	code	QoS	latitude	longitude
+Europe/Brussels	07/23/2014, 00:00:00	BE	good	50.8	3.16667
+Europe/Berlin	12/05/2015, 00:00:00	DE	building	49.13645	8.91229
+Europe/Berlin	09/27/2018, 00:00:00	DE	accep	48.78232	9.17702
+America/Lima	2015/10/15	PE	maintenance	-3.74912	-73.25383
+Asia/Jakarta	01 Aug 2019	ID	good	-7.57897	112.23109
+Africa/Mogadishu	2013/03/07	SO	average	-0.35817	42.54536
+Europe/Madrid	2018/12/12	ES	average	39.96348	-4.83076
+Europe/London	14 Nov 2019	GB	average	51.40148	-1.32471
+Europe/London	2016/03/23	GB	average	51.84819	1.26738
+Europe/Podgorica	11/02/2020, 00:00:00	ME	building	42.28639	18.84
+America/Mexico_City	22 Jun 2018	MX	accep	20.22816	-103.5687
+Asia/Karachi	03/27/2022, 00:00:00	PK	accep	32.57756	71.52847
+Europe/Paris	2017/06/29	FR	good	48.98994	2.1699
+Europe/Madrid	2016/02/06	ES	accep	42.64685	-5.55835
+Asia/Kolkata	2012-12-14	IN	excellent	14.46693	75.92694
+America/Phoenix	08/11/2022, 00:00:00	US	building	33.50921	-111.89903
+Europe/Berlin	2021-07-11	DE	good	52.47774	10.5511
+Asia/Tashkent	2021-04-04	UZ	good	41.29444	69.67639
+America/New_York	05/15/2015, 00:00:00	US	average	28.90054	-81.26367
+Europe/Madrid	2013-01-27	ES	good	41.91738	3.1631
+America/Lima	2017-12-30	PE	average	-3.74912	-73.25383
+Europe/Moscow	12 Dec 2015	RU	maintenance	60.02427	30.28491
+Europe/Paris	2020-03-15	FR	excellent	46.32313	-0.45877
+Europe/Moscow	11 Dec 2014	RU	good	53.93361	37.92792
+Africa/Lagos	2017-11-03	NG	average	7.6	4.18333
+Europe/Madrid	27 Oct 2020	ES	excellent	40.42386	-3.53261
+America/Denver	2022/06/27	US	maintenance	39.57582	-105.11221
+Asia/Jakarta	2015/08/22	ID	good	-7.54972	110.71639
+Asia/Bangkok	05/11/2013, 00:00:00	TH	good	14.64056	104.64992
+Asia/Jakarta	03/04/2021, 00:00:00	ID	good	3.3285	99.1625
+Asia/Manila	24 Nov 2013	PH	excellent	12.35275	121.06761
+Europe/Madrid	2017/01/03	ES	excellent	38.96667	-0.18333
+America/Puerto_Rico	2021/09/07	PR	accep	18.03496	-66.8499
+America/Los_Angeles	05/29/2016, 00:00:00	US	accep	34.09611	-118.10583
+Asia/Shanghai	2019-01-03	CN	maintenance	35.64889	117.27583
+Europe/Minsk	2013/07/09	BY	excellent	55.1904	30.2049
+Africa/Banjul	10/27/2015, 00:00:00	GM	accep	13.56667	-15.6
+America/Menominee	08/07/2014, 00:00:00	US	average	46.09273	-88.64235
+America/New_York	2014-01-22	US	average	38.91817	-78.19444
+Europe/Copenhagen	2022/05/01	DK	average	55.67938	12.53463
+Europe/Istanbul	11/10/2016, 00:00:00	TR	excellent	40.1675	34.37389
+America/Los_Angeles	09/04/2018, 00:00:00	US	accep	34.21639	-119.0376
+Australia/Brisbane	2020/09/11	AU	good	-27.50578	153.10236
+Asia/Kabul	2014/08/02	AF	excellent	36.21544	65.93249
+America/Toronto	01/30/2017, 00:00:00	CA	average	45.43341	-73.86586
+America/Sao_Paulo	05/16/2014, 00:00:00	BR	excellent	-28.44917	-52.2
+Europe/Rome	01 Nov 2016	IT	average	45.9836	12.70038
+America/Los_Angeles	03/10/2014, 00:00:00	US	good	47.38093	-122.23484
+Asia/Karachi	05/23/2019, 00:00:00	PK	average	30.29184	71.67164
+Europe/Berlin	01 May 2019	DE	excellent	52.61131	13.31783
+Africa/Tunis	09/11/2018, 00:00:00	TN	average	37.16911	10.03478
+Europe/Lisbon	04/04/2016, 00:00:00	PT	building	41.1053	-7.32097
+Asia/Baghdad	03 Jan 2018	IQ	good	32.61603	44.02488
+Asia/Shanghai	2021-02-12	CN	good	41.94175	123.50266
+Africa/Libreville	2020/10/04	GA	good	-1.63333	13.58357
+Asia/Kolkata	2012-10-27	IN	good	33.37526	74.3092
+America/Los_Angeles	2021/12/11	US	accep	47.80527	-122.24064
+Asia/Karachi	11/25/2017, 00:00:00	PK	maintenance	32.87533	71.57118
+Europe/Paris	2014-02-22	FR	excellent	50.75	2.25
+Asia/Kolkata	19 Apr 2022	IN	average	25.92493	73.66633
+America/Chicago	06/16/2021, 00:00:00	US	accep	41.8542	-87.66561
+Australia/Perth	07 Dec 2013	AU	excellent	-31.95224	115.8614
+Asia/Manila	2019/11/01	PH	maitennce	14.8361	120.97844
+Europe/Rome	2013/04/19	IT	excellent	38.07789	13.44275
+America/Santiago	31 May 2013	CL	excellent	-33.59217	-70.6996
+America/Costa_Rica	2016/05/04	CR	average	10.63504	-85.43772
+America/Mexico_City	07/09/2014, 00:00:00	MX	average	19.32932	-98.1664
+Europe/Sofia	05/04/2017, 00:00:00	BG	excellent	41.57439	24.71204
+Asia/Seoul	2015/07/06	KR	good	36.6009	126.665
+America/Puerto_Rico	25 Dec 2016	PR	good	18.03496	-66.8499
+America/Guayaquil	18 Dec 2016	EC	good	-2.13404	-79.59415
+Europe/Moscow	2017/04/25	RU	good	46.7055	38.2739
+Africa/Algiers	12/24/2019, 00:00:00	DZ	excellent	36.72544	3.55665
+Europe/Madrid	05 Dec 2017	ES	building	43.31667	-2.68333
+Asia/Tokyo	2015/01/03	JP	excellent	34.9	137.5
+Asia/Dhaka	08/29/2013, 00:00:00	BD	excellent	22.83957	91.84128
+Asia/Yekaterinburg	02/05/2020, 00:00:00	RU	excellent	56.9083	60.8019
+America/Toronto	02/08/2016, 00:00:00	CA	average	42.8334	-80.38297
+Europe/Moscow	28 May 2018	RU	good	57.97472	33.2525
+Europe/Helsinki	2019-08-31	FI	maintenance	60.18427	24.95034
+Europe/Rome	2017-04-03	IT	accep	40.72586	8.55552
+Europe/London	2013/04/12	GB	excellent	53.0233	-1.48119
+Europe/Kiev	2015/03/31	UA	maintenance	46.65581	32.6178
+America/Chicago	05 Aug 2014	US	accep	33.41012	-91.06177
+Asia/Dili	2015-01-25	TL	excellent	-8.99167	125.21972
+Europe/Rome	01/30/2021, 00:00:00	IT	excellent	38.07789	13.44275
+America/Mexico_City	12/10/2015, 00:00:00	MX	accep	20.22816	-103.5687
+Asia/Yekaterinburg	2018-03-26	RU	accep	56.11281	69.49015
+Europe/Moscow	09/09/2020, 00:00:00	RU	good	54.03876	43.91385
+Africa/Dar_es_Salaam	16 Jan 2015	TZ	excellent	-4.83	29.65806
+Europe/Moscow	2014-09-30	RU	good	55.62047	37.49338
+Africa/Lubumbashi	2014/01/30	CD	good	0.49113	29.47306
+Asia/Manila	2019-05-24	PH	accep	12.97389	123.99333
+Asia/Kuala_Lumpur	12/18/2014, 00:00:00	MY	good	2.2139	102.3278
+Europe/Moscow	2015-06-05	RU	accep	44.98901	38.94324
+Europe/Paris	01/21/2022, 00:00:00	FR	average	43.67681	4.63031
+Europe/Rome	12/17/2014, 00:00:00	IT	excellent	45.44694	8.62118
+America/New_York	2015-10-19	US	average	40.64621	-73.97069
+America/Managua	04/29/2017, 00:00:00	NI	excellent	13.48082	-86.58208
+America/New_York	2020/03/15	US	average	38.91817	-78.19444
+Asia/Karachi	2015/11/25	PK	building	30.29184	71.67164
+Europe/Kiev	2014/11/24	UA	building	47.56494	31.33078
+Africa/Lagos	2018/10/13	NG	accep	6.15038	6.83042
+Asia/Tehran	21 Dec 2020	IR	accep	35.6803	51.0193
+America/Sao_Paulo	2012/10/02	BR	building	-19.7625	-44.31389
+Europe/Paris	04/21/2014, 00:00:00	FR	good	46.67535	5.55575
+Asia/Kolkata	20 Jul 2022	IN	accep	11.93381	79.82979
+Asia/Phnom_Penh	05/15/2015, 00:00:00	KH	good	13.65805	102.56365
+Europe/Bratislava	2016/06/28	SK	average	48.43174	17.8031
+America/Bogota	15 Sep 2021	CO	accep	10.15031	-73.9614
+Europe/Berlin	11/05/2012, 00:00:00	DE	accep	48.35693	10.98461
+Europe/London	23 Apr 2021	GB	excellent	51.40148	-1.32471
+Asia/Colombo	01/25/2020, 00:00:00	LK	building	6.9909	79.883
+America/Vancouver	2014/07/02	CA	excellent	50.26729	-119.27337
+Europe/Moscow	2014-01-17	RU	accep	61.78491	34.34691
+Europe/Madrid	04/20/2021, 00:00:00	ES	good	41.15612	1.10687
+America/New_York	07 Aug 2013	US	average	32.54044	-82.90375
+Europe/Chisinau	2022/04/07	MD	excellent	48.15659	28.28489
+Asia/Tokyo	08/03/2019, 00:00:00	JP	excellent	35.82756	137.95378
+Africa/Algiers	03 Jan 2020	DZ	excellent	35.21222	2.31889
+America/Los_Angeles	06/13/2016, 00:00:00	US	excellent	47.4943	-122.24092
+Europe/Rome	2013/05/31	IT	excellent	38.07789	13.44275
+Europe/Rome	2020/07/04	IT	building	38.07789	13.44275
+Europe/Paris	2016-12-04	FR	accep	45.69558	4.7934
+Australia/Melbourne	2021-02-27	AU	good	-38.16604	145.13643
+Europe/Istanbul	12/26/2021, 00:00:00	TR	average	40.98894	28.67582
+America/Recife	2014-06-14	BR	excellent	-8.05389	-34.88111
+Asia/Kolkata	2013-10-16	IN	average	22.10194	85.37752
+America/Mexico_City	2015/01/02	MX	accep	19.64745	-102.04897
+America/New_York	31 Mar 2021	US	accep	39.33427	-76.43941
+Europe/Amsterdam	07/02/2022, 00:00:00	NL	building	51.44889	5.51978
+Asia/Shanghai	2020/02/23	CN	building	41.27194	123.17306
+Asia/Jakarta	04 Oct 2014	ID	average	-7.81667	112.01667
+Africa/Algiers	2022-07-17	DZ	excellent	36.61954	4.08282
+Asia/Qyzylorda	11/14/2021, 00:00:00	KZ	good	44.85278	65.50917
+Asia/Tokyo	10/19/2012, 00:00:00	JP	maintenance	34.4833	136.84186
+Asia/Jerusalem	09/17/2013, 00:00:00	IL	accep	31.92923	34.86563
+Europe/Samara	2017/03/25	RU	good	53.37596	51.3452
+Asia/Seoul	2014-03-10	KR	good	37.1759	128.9889
+America/Chicago	2020/10/12	US	good	32.5007	-94.74049
+Europe/Paris	04/06/2021, 00:00:00	FR	acceptable	43.83125	5.03586
+Europe/Istanbul	2019-04-16	TR	excellent	38.37255	34.02537
+Asia/Tokyo	2021-01-31	JP	maintenance	34.81667	137.4
+America/Sao_Paulo	2019/07/24	BR	accep	-22.53722	-42.98194
+America/Chicago	2018/03/11	US	good	36.61033	-88.31476
+America/Martinique	2014/08/12	MQ	accep	14.67751	-60.94228
+America/Chicago	2021/09/14	US	excellent	31.76212	-95.63079
+Asia/Baku	2015-10-05	AZ	good	38.45598	48.87498
+Indian/Antananarivo	2013/03/26	MG	accep	-22.9	44.53333
+America/New_York	06 May 2014	US	excellent	37.60876	-77.37331
+America/Chicago	05/15/2015, 00:00:00	US	accep	33.41012	-91.06177
+Asia/Shanghai	01 Feb 2020	CN	maintenance	34.56861	105.89333
+Asia/Makassar	19 Jan 2015	ID	building	3.31332	117.59152
+Europe/Minsk	11/10/2021, 00:00:00	BY	good	52.4089	31.3237
+America/Managua	09 Sep 2021	NI	accep	13.48082	-86.58208
+Asia/Ho_Chi_Minh	11/28/2020, 00:00:00	VN	excellent	10.29085	105.75635
+Europe/Zurich	29 Mar 2022	CH	maintenance	46.18396	6.10237
+Europe/Kiev	22 Feb 2019	UA	maintenance	50.18545	27.06365
+Africa/Dar_es_Salaam	09 Jun 2013	TZ	excellent	-10.33333	39.28333
+Indian/Antananarivo	2021/07/09	MG	good	-17.83333	48.41667
+Asia/Tokyo	11/02/2017, 00:00:00	JP	accep	34.75856	136.13108
+Africa/Algiers	2017-03-31	DZ	excellent	34.15429	3.50309
+Europe/Berlin	2019-09-28	DE	good	50.72043	11.34046
+Europe/London	2022-06-12	GB	accep	53.81667	-3.05
+Asia/Kolkata	07/19/2021, 00:00:00	IN	average	26.32293	91.00632
+America/New_York	2013/05/03	US	accep	42.58342	-71.8023
+Asia/Dushanbe	04/05/2016, 00:00:00	TJ	excellent	38.55632	69.01354
+Asia/Manila	2015/11/05	PH	good	10.13361	124.84472
+Europe/Brussels	10/25/2021, 00:00:00	BE	accep	50.71229	4.52529
+Asia/Bangkok	07/30/2017, 00:00:00	TH	accep	15.79408	104.1451
+Europe/Rome	2019/09/10	IT	good	45.53069	9.40531
+Asia/Taipei	2012-12-15	TW	average	23.5654	119.58627
+Asia/Jakarta	03/31/2015, 00:00:00	ID	average	-7.54972	110.71639
+Asia/Shanghai	2017-12-24	CN	good	45.35	126.28333
+America/Port-au-Prince	2013/03/30	HT	maintenance	18.65297	-72.09391
+America/New_York	01/27/2022, 00:00:00	US	accep	26.68451	-80.66756
+Africa/Cairo	01/28/2020, 00:00:00	EG	accep	31.20176	29.91582
+Europe/Zaporozhye	02/02/2019, 00:00:00	UA	building	49.41029	38.15035
+Asia/Tashkent	03/13/2018, 00:00:00	UZ	accep	41.29444	69.67639
+Europe/Rome	04/19/2022, 00:00:00	IT	maintenance	41.55947	14.66737
+Europe/Berlin	2020/07/25	DE	maintenance	48.78232	9.17702
+Asia/Tokyo	08/04/2021, 00:00:00	JP	average	44.35056	142.45778
+America/New_York	2013-10-17	US	good	43.61062	-72.97261
+Europe/Brussels	2017/01/28	BE	maintenance	50.8	3.16667
+Europe/Brussels	2014-10-24	BE	accep	51.03427	5.37429
+America/New_York	2014-11-10	US	building	41.24255	-82.61573
+America/Mexico_City	2016/10/04	MX	accep	19.64745	-102.04897
+Europe/Moscow	11/15/2021, 00:00:00	RU	good	55.85	37.56667
+America/New_York	06 Dec 2019	US	maintenance	28.15112	-82.46148
+America/Sao_Paulo	24 Jun 2015	BR	average	-28.24	-48.67028
+Europe/Rome	2012/11/15	IT	good	43.1122	12.38878
+America/Toronto	02/14/2016, 00:00:00	CA	excellent	42.8334	-80.38297
+Europe/Brussels	01 Oct 2021	BE	average	51.03427	5.37429
+America/Los_Angeles	06/14/2013, 00:00:00	US	maintenance	34.14251	-118.25508
+Europe/Warsaw	2018-08-22	PL	building	50.20528	19.27498
+Europe/Amsterdam	2019/02/17	NL	building	51.44889	5.51978
+Europe/Rome	2014-02-04	IT	excellent	37.49223	15.07041
+Africa/Addis_Ababa	2019/03/14	ET	average	6.03333	37.55
+Asia/Barnaul	07/22/2021, 00:00:00	RU	average	53.30972	83.62389
+Asia/Kolkata	2018-03-26	IN	excellent	25.6439	77.9129
+Europe/Paris	2015-11-15	FR	maintenance	48.77644	2.29026
+Asia/Kolkata	2018/12/23	IN	average	26.11527	86.59509
+Europe/Brussels	2022-03-10	BE	average	51.21187	4.25633
+Europe/Brussels	2013/04/28	BE	excellent	50.88506	4.07601
+Africa/Kampala	2019-01-20	UG	building	2.41669	30.98551
+America/New_York	2020/05/21	US	accep	40.64621	-73.97069
+America/Indiana/Indianapolis	12/08/2016, 00:00:00	US	good	41.75338	-86.11084
+Europe/Kiev	2013/01/28	UA	maintenance	46.65581	32.6178
+Africa/Accra	2018/10/15	GH	good	5.30383	-1.98956
+Europe/Paris	03/29/2019, 00:00:00	FR	average	43.67681	4.63031
+Asia/Kolkata	2018/10/12	IN	average	24.05979	77.40858
+America/Maceio	28 Jun 2016	BR	maintenance	-10.90889	-37.03861
+Asia/Shanghai	29 Jul 2021	CN	excellent	36.81667	117.81667
+Asia/Kolkata	08/14/2020, 00:00:00	IN	maintenance	21.53889	71.57737
+Asia/Jakarta	2017/01/22	ID	accep	-6.91806	106.92667
+Europe/Rome	11/14/2017, 00:00:00	IT	good	37.51803	15.00913
+America/Mexico_City	2013-08-23	MX	accep	19.32889	-99.32556
+Europe/London	04/30/2014, 00:00:00	GB	good	53.81667	-3.05
+Asia/Manila	2014-08-02	PH	excellent	12.37169	123.62494
+Europe/Rome	2016/06/05	IT	accep	45.9836	12.70038
+America/Sao_Paulo	2014-04-25	BR	good	-20.25333	-43.80139
+Europe/Berlin	22 Oct 2017	DE	accep	52.53048	13.29371
+Asia/Tehran	2015/01/04	IR	average	35.6803	51.0193
+Asia/Kolkata	2016-08-01	IN	good	22.10194	85.37752
+Asia/Shanghai	2017/03/13	CN	good	35.64889	117.27583
+Asia/Kolkata	11/11/2014, 00:00:00	IN	accep	23.49668	86.68363
+America/Chicago	2016/01/26	US	accep	40.56754	-89.64066
+Europe/London	19 Apr 2016	GB	average	50.11861	-5.53715
+Asia/Karachi	31 Jan 2019	PK	average	30.76468	74.12286
+Asia/Dhaka	09/13/2017, 00:00:00	BD	building	23.9028	89.11943
+Europe/Skopje	2018-12-03	MK	maintenance	42	21.32778
+America/Sao_Paulo	2022-03-18	BR	good	-20.25333	-43.80139
+America/Los_Angeles	2020-11-06	US	maintenance	40.58654	-122.39168
+Asia/Jakarta	03/23/2014, 00:00:00	ID	building	-7.01833	107.60389
+Asia/Shanghai	2016-05-16	CN	building	35.20889	111.73861
+Asia/Vladivostok	2013/05/09	RU	good	53.14657	140.72287
+Asia/Manila	08 Apr 2021	PH	good	14.14989	121.3152
+Asia/Shanghai	17 Jun 2015	CN	accep	23.29549	113.82465
+America/New_York	2018-04-20	US	maintenance	41.24255	-82.61573
+Australia/Melbourne	08/18/2014, 00:00:00	AU	accep	-37.9	145.18333
+Asia/Kolkata	2019/04/22	IN	good	23.1959	86.51499
+Africa/Algiers	07/27/2022, 00:00:00	DZ	good	35.21222	2.31889
+America/New_York	2017-01-10	US	building	34.06635	-84.67837
+Europe/London	2021-04-16	GB	excellent	53.38333	-0.76667
+Asia/Yakutsk	2021-10-25	RU	average	65.93381	111.4834
+Asia/Tehran	27 Sep 2015	IR	average	33.86419	48.26258
+Africa/Casablanca	15 Oct 2015	MA	maintenance	33.43443	-5.22126
+Africa/Lubumbashi	2020/02/25	CD	excellent	0.76755	24.43973
+America/Toronto	2019/10/03	CA	maintenance	45.40008	-73.58248
+Asia/Kuala_Lumpur	01/06/2022, 00:00:00	MY	excellent	4.88441	101.96857
+Africa/Mogadishu	2019-04-25	SO	good	9.89206	43.38531
+Pacific/Auckland	2014-08-17	NZ	excellent	-44.39672	171.25364
+Europe/Moscow	16 Mar 2019	RU	good	44.92934	37.99117
+Europe/Kiev	02/24/2020, 00:00:00	UA	excellent	45.99194	29.41824
+Asia/Seoul	02/03/2013, 00:00:00	KR	average	36.20389	127.08472
+America/Los_Angeles	2017/02/21	US	good	33.7207	-116.21677
+Asia/Kolkata	2017-01-15	IN	good	11.93381	79.82979
+Atlantic/Azores	10/16/2015, 00:00:00	PT	excellent	37.74615	-25.66689
+America/Vancouver	2014/12/27	CA	accep	50.26729	-119.27337
+Asia/Karachi	2018-06-30	PK	accep	25.80565	68.49143
+Europe/Madrid	29 Jul 2020	ES	average	38.38479	-0.76773
+Asia/Kolkata	2017/12/22	IN	accep	28.98002	77.70636
+America/Denver	2018-03-11	US	accep	39.72943	-104.83192
+Asia/Tokyo	2020-12-22	JP	excellent	35	136.51667
+Europe/Madrid	12/27/2017, 00:00:00	ES	average	38.47917	-1.325
+America/Los_Angeles	2020/09/28	US	building	47.64995	-117.23991
+Asia/Jakarta	09 Jul 2017	ID	good	0.51667	101.44167
+Asia/Kolkata	14 May 2021	IN	accep	25.92127	86.79271
+America/New_York	08/21/2016, 00:00:00	US	excellent	41.55838	-81.56929
+America/Bogota	2016/03/26	CO	good	3.8801	-77.03116
+Asia/Yekaterinburg	05/19/2017, 00:00:00	RU	excellent	56.11281	69.49015
+America/Recife	2013-06-23	BR	average	-8.28333	-35.03333
+Asia/Makassar	2020/02/27	ID	excellent	3.31332	117.59152
+Africa/Lubumbashi	2015/09/12	CD	good	0.49113	29.47306
+Asia/Tashkent	27 Nov 2015	UZ	good	40.78206	72.34424
+Europe/Paris	19 Oct 2016	FR	average	44.92801	4.8951
+Asia/Tokyo	05/19/2018, 00:00:00	JP	excellent	34.61667	135.6
+Asia/Karachi	2022-08-04	PK	excellent	32.57756	71.52847
+Pacific/Auckland	23 Nov 2014	NZ	good	-38.65333	178.00417
+America/Chicago	12 Apr 2015	US	accep	45.0408	-93.263
+Europe/London	28 May 2016	GB	excellent	53.00974	-3.05814
+Europe/Berlin	03/30/2021, 00:00:00	DE	average	52.61131	13.31783
+Asia/Tokyo	2014-10-12	JP	accep	34.9	137.5
+Europe/Moscow	09 Jun 2017	RU	average	54.90083	38.07083
+Europe/Berlin	2015-04-10	DE	average	52.2	8.63333
+America/New_York	2013/12/14	US	average	40.24537	-75.64963
+Asia/Barnaul	11 Mar 2018	RU	average	53.30972	83.62389
+Asia/Bangkok	11/05/2017, 00:00:00	TH	good	14.64056	104.64992
+America/New_York	2017-11-25	US	maintenance	39.00622	-77.4286
+America/Mexico_City	2022/09/17	MX	accep	19.8173	-97.35992
+America/Sao_Paulo	2013-03-19	BR	accep	-26.22861	-52.67056
+Asia/Kolkata	2016/07/03	IN	accep	14.46693	75.92694
+America/Chicago	2018/04/24	US	good	41.72059	-87.70172
+Asia/Karachi	2020-09-04	PK	good	30.76468	74.12286
+Asia/Tokyo	2015/08/18	JP	building	33.3213	130.94098
+Asia/Dhaka	2021/05/03	BD	excellent	22.83957	91.84128
+Asia/Kolkata	2017-02-16	IN	accep	23.1959	86.51499
+America/Bogota	2019/04/07	CO	accep	3.8801	-77.03116
+Africa/Maputo	2017/10/16	MZ	good	-23.85972	35.34722
+America/Lima	2015-03-13	PE	average	-16.25	-69.08333
+Asia/Karachi	2021/06/23	PK	maintenance	27.55898	68.21204
+Asia/Kolkata	02/06/2018, 00:00:00	IN	excellent	11.93381	79.82979
+Asia/Baku	23 Oct 2021	AZ	average	38.45598	48.87498
+Australia/Brisbane	2014/07/10	AU	good	-25.54073	152.70493
+Europe/Moscow	04/07/2013, 00:00:00	RU	accep	55.85	37.56667
+America/Los_Angeles	07 Jun 2022	US	maintenance	47.64995	-117.23991
+America/Los_Angeles	2013/08/29	US	excellent	38.17492	-122.2608
+America/Recife	2018-09-15	BR	maintenance	-8.28333	-35.03333
+Africa/Dar_es_Salaam	11 Jul 2015	TZ	average	-7.60361	37.00438
+Asia/Tokyo	06 Aug 2022	JP	average	36	139.55722
+America/New_York	2020-04-15	US	accep	37.60876	-77.37331
+Africa/Casablanca	2017/10/25	MA	maintenance	33.92866	-6.90656
+Asia/Tokyo	05/06/2022, 00:00:00	JP	accep	37.56667	140.11667
+Europe/Paris	2020-05-25	FR	building	48.79325	2.29275
+Asia/Jakarta	2020-06-24	ID	maintenance	-7.01833	107.60389
+Europe/Paris	2019-03-11	FR	accep	48.8765	2.18967
+Asia/Tashkent	05/12/2020, 00:00:00	UZ	building	41.29444	69.67639
+Asia/Tokyo	2014/08/04	JP	good	44.35056	142.45778
+Europe/Kiev	13 Oct 2020	UA	average	46.75451	33.34864
+Asia/Tokyo	06/06/2015, 00:00:00	JP	accep	33.3213	130.94098
+Europe/Bratislava	13 Jun 2016	SK	excellent	48.8449	17.22635
+Asia/Bangkok	2014-02-22	TH	good	15.58552	102.42587
+America/New_York	29 Nov 2016	US	good	39.96097	-75.60804
+Europe/London	02/23/2017, 00:00:00	GB	maintenance	50.79205	-1.08593
+Asia/Bangkok	09/17/2017, 00:00:00	TH	excellent	13.44581	101.18445
+Europe/Zaporozhye	23 Sep 2015	UA	average	49.41029	38.15035
+America/Los_Angeles	2019-12-09	US	good	47.76232	-122.2054
+Europe/Skopje	28 Dec 2013	MK	building	42	21.32778
+America/Recife	08 Nov 2015	BR	good	-8.05389	-34.88111
+America/Argentina/Buenos_Aires	08 Oct 2018	AR	building	-34.64966	-58.38341
+America/Bogota	01 Jul 2016	CO	excellent	6.46838	-73.26022
+Asia/Tokyo	10/29/2018, 00:00:00	JP	accep	35.06667	135.21667
+Europe/Paris	2014-04-16	FR	good	46.32313	-0.45877
+America/Toronto	2018/12/18	CA	good	42.8334	-80.38297
+America/Sao_Paulo	02/03/2014, 00:00:00	BR	good	-28.24	-48.67028
+Europe/Brussels	11/15/2021, 00:00:00	BE	excellent	50.74497	3.20639
+America/Denver	08/25/2019, 00:00:00	US	excellent	32.42067	-104.22884
+Asia/Shanghai	2017-08-29	CN	excellent	35.20889	111.73861
+Europe/Moscow	2022/07/24	RU	building	55.38752	36.73307
+America/Jamaica	25 May 2018	JM	accep	18.00747	-76.78319
+Asia/Bangkok	2021/12/17	TH	excellent	14.64056	104.64992
+Europe/London	2017/10/17	GB	average	57.14369	-2.09814
+Asia/Tokyo	25 Apr 2016	JP	average	37.56667	140.11667
+Asia/Baku	26 Mar 2022	AZ	average	38.45598	48.87498
+Europe/Madrid	2020-10-09	ES	accep	38.38479	-0.76773
+Europe/Berlin	07/06/2019, 00:00:00	DE	accep	51.20219	7.36027
+Europe/Paris	10/09/2016, 00:00:00	FR	building	43.11667	1.6
+Europe/Paris	12/12/2017, 00:00:00	FR	accep	48.79325	2.29275
+Europe/Chisinau	07/08/2021, 00:00:00	MD	maintenance	48.15659	28.28489
+Europe/Prague	08/03/2019, 00:00:00	CZ	excellent	50.50301	13.63617
+Asia/Shanghai	2022/06/26	CN	accep	30.35028	112.19028
+Asia/Kolkata	12 Aug 2019	IN	accep	18.51957	73.85535
+Europe/Moscow	2017-01-29	RU	maintenance	55.62047	37.49338
+America/Puerto_Rico	01 Mar 2018	PR	accep	18.03496	-66.8499
+Asia/Karachi	06/05/2021, 00:00:00	PK	building	29.69221	72.54566
+Asia/Seoul	2015/11/23	KR	good	37.65639	126.835
+America/Los_Angeles	2022/09/18	US	accep	33.52253	-117.70755
+Europe/Stockholm	2016/12/17	SE	excellent	59.33333	18.28333
+Asia/Tokyo	01 Aug 2021	JP	average	33.3213	130.94098
+Europe/London	2019-04-28	GB	accep	53.19146	-2.52398
+Europe/Volgograd	12/29/2012, 00:00:00	RU	excellent	50.06	43.2379
+Asia/Tokyo	2022-07-05	JP	maintenance	36	139.55722
+Asia/Kolkata	05/05/2016, 00:00:00	IN	excellent	18.87813	72.93924
+Asia/Shanghai	2019-02-08	CN	good	41.09822	120.74792
+Asia/Manila	2021/12/23	PH	excellent	8.56697	123.33471
+Europe/London	06/01/2016, 00:00:00	GB	accep	53.46506	-1.47217
+America/Chicago	19 May 2017	US	average	44.73941	-93.12577
+America/Los_Angeles	2017-01-02	US	average	47.38093	-122.23484
+Europe/Rome	2016/07/18	IT	average	45.50369	11.412
+Europe/Sofia	13 Jan 2019	BG	average	41.57439	24.71204
+Asia/Shanghai	03/06/2015, 00:00:00	CN	good	29.98869	122.20488
+Europe/Paris	20 Jul 2018	FR	accep	48.98333	2.61667
+Asia/Bangkok	2013-04-20	TH	average	8.43333	99.96667
+Asia/Kuala_Lumpur	25 Jun 2022	MY	maintenance	4.88441	101.96857
+Europe/Zurich	06/20/2022, 00:00:00	CH	average	47.30997	8.52462
+Asia/Kolkata	06/18/2020, 00:00:00	IN	accep	27.9247	78.40102
+Europe/Tallinn	05/08/2013, 00:00:00	EE	good	59.37722	28.19028
+Asia/Tokyo	2016/08/09	JP	average	36.65	138.31667
+America/New_York	2020-05-10	US	accep	40.57788	-73.95958
+Europe/Moscow	2020/12/30	RU	accep	53.95278	32.86389
+Europe/London	2021/09/07	GB	excellent	53.0233	-1.48119
+America/Managua	2017-03-20	NI	average	11.84962	-86.19903
+Africa/Lubumbashi	31 Jul 2014	CD	excellent	0.49113	29.47306
+Europe/London	2017/02/01	GB	excellent	53.7446	-0.33525
+Africa/Algiers	2015/08/24	DZ	building	36.06386	4.62744
+Europe/Rome	06 Feb 2018	IT	average	45.50369	11.412
+Africa/Tripoli	2017/10/08	LY	excellent	30.75545	20.22625
+Africa/Algiers	09 Sep 2021	DZ	building	36.76775	2.95924
+Africa/Kigali	2021-09-15	RW	maintenance	-1.9487	30.4347
+Europe/Podgorica	2018-02-13	ME	excellent	42.28639	18.84
+Asia/Shanghai	2017/05/25	CN	good	34.86472	117.55417
+Africa/Abidjan	05 Feb 2022	CI	accep	5.84752	-5.682
+America/New_York	2015-07-12	US	good	40.5576	-74.28459
+Asia/Tokyo	2014/04/09	JP	excellent	33.3213	130.94098
+Asia/Jakarta	2021-05-17	ID	maintenance	3.3285	99.1625
+Europe/Madrid	2014/08/15	ES	building	43.32686	-2.98884
+America/Chicago	2014-03-20	US	good	41.80753	-87.65644
+America/Boise	2016-10-18	US	building	43.54072	-116.56346
+Europe/Zurich	04/09/2021, 00:00:00	CH	excellent	46.18396	6.10237
+Europe/Brussels	01/24/2015, 00:00:00	BE	accep	50.8	3.16667
+Asia/Ho_Chi_Minh	2019-01-06	VN	good	10.29085	105.75635
+Asia/Karachi	12/26/2017, 00:00:00	PK	excellent	26.9423	68.11759
+America/Chicago	2018/10/09	US	excellent	35.25064	-91.73625
+Europe/Berlin	2014-09-03	DE	average	48.35149	8.96317
+America/Los_Angeles	12/12/2017, 00:00:00	US	building	47.64995	-117.23991
+Europe/London	05 Jan 2014	GB	building	53.19146	-2.52398
+Europe/Berlin	2015-01-05	DE	average	51.19139	6.51352
+America/Chicago	05/14/2015, 00:00:00	US	building	41.85059	-87.882
+America/Bogota	07/22/2014, 00:00:00	CO	excellent	8.79577	-75.69947
+America/Sao_Paulo	03/03/2013, 00:00:00	BR	excellent	-22.53722	-42.98194
+Europe/Kiev	2017/10/14	UA	excellent	49.07866	30.96755
+Asia/Manila	2019-06-11	PH	excellent	9.6531	124.3697
+America/Lima	2013-08-13	PE	good	-15.21194	-75.11028
+Asia/Manila	06 Jun 2019	PH	excellent	10.7375	122.9666
+Asia/Barnaul	2020/09/29	RU	average	53.30972	83.62389
+America/New_York	2014-02-10	US	building	41.9001	-71.08977
+Europe/Warsaw	04/30/2018, 00:00:00	PL	accep	51.14942	15.00835
+America/Chicago	29 May 2014	US	average	39.09112	-94.41551
+Europe/Moscow	2014/11/08	RU	accep	55.38752	36.73307
+Africa/Casablanca	01 Jul 2014	MA	accep	34.31	-2.16
+Europe/Moscow	07/05/2021, 00:00:00	RU	maintenance	53.53395	33.72798
+Europe/Berlin	2019/12/02	DE	good	53.6052	10.03988
+Europe/Berlin	2017-08-15	DE	excellent	51.88333	8.51667
+Europe/Amsterdam	2022/07/25	NL	excellent	51.65333	5.2875
+Europe/Moscow	2021/02/21	RU	average	57.30185	39.85331
+Europe/Vienna	07/05/2015, 00:00:00	AT	accep	48.25	16.4
+America/New_York	2017/07/22	US	accep	40.65538	-74.38987
+Europe/Moscow	2020/02/16	RU	maintenance	54.8421	46.5813
+Asia/Tokyo	2019-09-01	JP	excellent	34.61667	135.6
+Asia/Shanghai	2019-04-26	CN	accep	35.20889	111.73861
+Asia/Kolkata	2014/05/31	IN	good	12.25282	79.41727
+Europe/Moscow	06 Jun 2014	RU	building	56.85836	35.90057
+Asia/Kolkata	2018/05/14	IN	maintenance	17.34769	78.55757
+Asia/Shanghai	02/07/2014, 00:00:00	CN	average	37.19723	122.05228
+Asia/Kolkata	2015/12/18	IN	excellent	26.11527	86.59509
+Asia/Jakarta	23 Jul 2013	ID	average	-7.54972	110.71639
+Asia/Tashkent	08/05/2020, 00:00:00	UZ	accep	40.78206	72.34424
+Asia/Shanghai	2012-12-17	CN	good	28.88162	120.03308
+Asia/Shanghai	2014/08/09	CN	average	41.94175	123.50266
+America/Los_Angeles	2018-05-29	US	excellent	47.76232	-122.2054
+Europe/Moscow	09/30/2019, 00:00:00	RU	good	46.7055	38.2739
+America/Sao_Paulo	09 May 2013	BR	average	-28.81833	-52.51028
+America/New_York	04/22/2015, 00:00:00	US	good	40.93121	-73.89875
+Asia/Kolkata	2016-02-06	IN	good	21.46527	83.97573
+Europe/Rome	20 Jul 2022	IT	average	41.24264	16.50104
+America/Chicago	2019-03-04	US	good	35.61452	-88.81395
+Europe/Saratov	02/22/2020, 00:00:00	RU	average	51.40944	46.04833
+Europe/Moscow	2019/07/02	RU	average	54.03876	43.91385
+Asia/Jakarta	07 May 2013	ID	accep	-1.26424	104.09701
+America/Denver	06/15/2019, 00:00:00	US	good	32.42067	-104.22884
+America/El_Salvador	2022/05/24	SV	accep	13.73417	-89.71472
+Asia/Jakarta	2021/06/20	ID	good	-6.48167	106.85417
+Asia/Samarkand	2019-07-30	UZ	accep	40.11583	67.84222
+Europe/Kiev	2017-05-09	UA	average	45.99194	29.41824
+America/Phoenix	17 Feb 2014	US	average	33.35283	-111.78903
+America/Santo_Domingo	02/01/2013, 00:00:00	DO	good	18.20854	-71.10077
+Asia/Shanghai	2018-02-27	CN	accep	34.85	117.33333
+Asia/Shanghai	2015-03-16	CN	accep	35.50056	117.63083
+America/Chicago	2017-09-13	US	excellent	45.16024	-93.08883
+America/New_York	2017/03/08	US	excellent	39.45621	-77.96389
+America/New_York	2012/11/22	US	good	42.4251	-71.06616
+Europe/London	2012-11-18	GB	accep	51.65	-0.2
+America/Mexico_City	07/06/2013, 00:00:00	MX	average	17.06542	-96.72365
+Europe/Lisbon	2018-10-13	PT	excellent	41.1053	-7.32097
+Asia/Damascus	2013-05-10	SY	good	35.95664	36.7138
+Europe/Rome	2015/11/27	IT	average	44.59445	11.04979
+America/Santiago	04/13/2021, 00:00:00	CL	average	-32.45242	-71.23106
+America/Argentina/Cordoba	2013/09/11	AR	excellent	-31.25033	-61.4867
+Africa/Douala	04 Sep 2014	CM	excellent	4.2475	9.00472
+America/Glace_Bay	05/06/2013, 00:00:00	CA	average	46.1351	-60.1831
+America/Los_Angeles	03/31/2022, 00:00:00	US	maintenance	33.52253	-117.70755
+Europe/Madrid	2020-09-18	ES	good	41.41204	2.18247
+Europe/Berlin	2013-02-27	DE	good	53.94313	10.30215
+America/New_York	03/27/2021, 00:00:00	US	good	39.43534	-84.20299
+America/Edmonton	05 May 2015	CA	accep	53.51684	-113.3187
+Asia/Karachi	11/14/2013, 00:00:00	PK	accep	32.17629	75.06583
+America/New_York	06/23/2018, 00:00:00	US	excellent	43.61062	-72.97261
+Asia/Bangkok	21 May 2014	TH	average	15.58552	102.42587
+Europe/Berlin	09/23/2019, 00:00:00	DE	accep	51.21667	6.26667
+Africa/Bamako	2015-11-16	ML	accep	12.74409	-8.07257
+Europe/Tallinn	07 Jan 2015	EE	excellent	59.37722	28.19028
+Asia/Shanghai	25 May 2018	CN	average	23.29549	113.82465
+Europe/London	2016/05/27	GB	maintenance	53.46506	-1.47217
+Europe/Rome	2022/05/08	IT	excellent	45.78071	12.84052
+Europe/Paris	05/23/2015, 00:00:00	FR	accep	43.11667	1.6
+America/Argentina/Cordoba	04/26/2021, 00:00:00	AR	building	-31.25033	-61.4867
+Asia/Shanghai	12/06/2014, 00:00:00	CN	accep	41.09822	120.74792
+America/Bogota	2018/03/10	CO	excellent	5.6561	-75.87877
+Asia/Shanghai	25 Dec 2020	CN	average	23.29549	113.82465
+America/Fortaleza	2018/05/16	BR	accep	-4.16694	-40.7475
+Asia/Tokyo	2018-12-10	JP	accep	35.82756	137.95378
+America/Porto_Velho	2018/07/31	BR	excellent	-8.76194	-63.90389
+Africa/Tunis	2012-12-30	TN	excellent	35.72917	10.58082
+America/Detroit	13 Dec 2015	US	excellent	42.30865	-83.48216
+Asia/Kolkata	2018-09-07	IN	accep	19.21667	73.08333
+Asia/Manila	08/24/2016, 00:00:00	PH	excellent	14.8361	120.97844
+Europe/London	2015-04-08	GB	average	51.40148	-1.32471
+Asia/Kolkata	15 Jun 2019	IN	average	31.28092	74.85849
+America/Los_Angeles	2020-08-24	US	maintenance	46.32374	-120.00865
+America/Los_Angeles	18 Oct 2012	US	average	47.80527	-122.24064
+Europe/Rome	01/12/2019, 00:00:00	IT	excellent	42.67164	14.01481
+Europe/Rome	2014-02-03	IT	accep	37.51803	15.00913
+Asia/Kolkata	04/16/2016, 00:00:00	IN	maintenance	21.53889	71.57737
+Europe/Malta	2014/12/20	MT	accep	35.89972	14.51472
+Asia/Kolkata	12/04/2021, 00:00:00	IN	average	16.06213	76.0586
+Europe/Istanbul	02/13/2015, 00:00:00	TR	average	37.31309	40.74357
+America/New_York	13 Apr 2020	US	good	37.52487	-77.55777
+Asia/Kolkata	2014-10-15	IN	excellent	25.6439	77.9129
+Asia/Shanghai	2019/02/20	CN	excellent	34.65918	109.22921
+Asia/Makassar	2022-05-07	ID	average	3.31332	117.59152
+America/Chicago	2016/11/15	US	accep	32.44874	-99.73314
+Asia/Kolkata	07/10/2016, 00:00:00	IN	excellent	15.5439	73.7553
+Europe/Berlin	11/03/2013, 00:00:00	DE	excellent	50.80904	8.77069
+America/Los_Angeles	2015-04-25	US	excellent	33.72255	-116.37697
+Europe/Vienna	08/09/2020, 00:00:00	AT	good	48.25	16.4
+America/Argentina/Buenos_Aires	27 Nov 2021	AR	accep	-37.32167	-59.13316
+America/Sao_Paulo	08/26/2013, 00:00:00	BR	average	-25.42778	-49.27306
+America/Chicago	12/21/2017, 00:00:00	US	good	29.84576	-90.10674
+America/New_York	01/04/2019, 00:00:00	US	accep	33.08014	-83.2321
+Asia/Tokyo	2019-11-04	JP	maintenance	34.9	137.5
+Africa/Lubumbashi	12/05/2013, 00:00:00	CD	average	-8.73508	24.99798
+Asia/Yekaterinburg	2017/04/23	RU	good	54.48147	53.47103
+America/Manaus	2013-11-21	BR	average	-3.14306	-58.44417
+America/Belem	2013/11/04	BR	excellent	-0.71667	-48.52333
+Asia/Aqtobe	21 Oct 2013	KZ	building	47.83333	59.6
+Europe/Berlin	2013/11/01	DE	average	48.35693	10.98461
+America/Chicago	2012/11/23	US	accep	31.76212	-95.63079
+America/Sao_Paulo	28 Feb 2014	BR	good	-17.74431	-48.62789
+Asia/Kolkata	2020-11-01	IN	excellent	20.88197	85.83334
+America/Los_Angeles	07/01/2020, 00:00:00	US	maintenance	34.21639	-119.0376
+Asia/Manila	2019/06/24	PH	excellent	10.7375	122.9666
+Asia/Seoul	01/05/2016, 00:00:00	KR	maintenance	37.1759	128.9889
+Asia/Yekaterinburg	2016-04-27	RU	accep	58.04254	65.27258
+Asia/Kolkata	09 Mar 2016	IN	good	30.21121	74.4818
+Africa/Mogadishu	02 Jun 2022	SO	good	9.89206	43.38531
+America/Chicago	29 Nov 2021	US	excellent	37.95143	-91.77127
+Africa/Lagos	2021/03/01	NG	excellent	6.15038	6.83042
+America/Indiana/Indianapolis	11/07/2013, 00:00:00	US	excellent	39.78504	-85.76942
+America/Mexico_City	2016/09/27	MX	excellent	20.22816	-103.5687
+America/Sao_Paulo	2012-11-19	BR	accep	-22.45667	-47.53028
+Europe/London	06/21/2016, 00:00:00	GB	good	52.66277	-2.01111
+Europe/London	2018/03/15	GB	maintenance	51.39148	-0.29825
+Europe/Madrid	03/09/2020, 00:00:00	ES	excellent	38.47917	-1.325
+Europe/Rome	2014-11-05	IT	maintenance	37.51803	15.00913
+Asia/Bangkok	17 Feb 2014	TH	accep	14.37395	100.48528
+Europe/Moscow	2022/03/17	RU	excellent	58.1908	40.17171
+Asia/Karachi	2018/05/15	PK	average	29.69221	72.54566
+Africa/Cairo	2020-05-01	EG	maintenance	31.20176	29.91582
+America/New_York	2019/11/22	US	maintenance	43.61062	-72.97261
+Asia/Karachi	02 Feb 2021	PK	excellent	27.55898	68.21204
+Africa/Lagos	09/21/2022, 00:00:00	NG	building	7.65649	4.92235
+America/Mazatlan	2017/12/25	MX	excellent	22.49396	-105.36369
+Asia/Dili	2020/01/29	TL	excellent	-8.99167	125.21972
+America/Chicago	2020-10-01	US	building	35.25064	-91.73625
+Asia/Kolkata	05 Apr 2021	IN	average	27.9247	78.40102
+Europe/Madrid	07/26/2020, 00:00:00	ES	average	37.35813	-6.03731
+Asia/Kolkata	05 Nov 2017	IN	good	34.08565	74.80555
+America/Panama	2012-10-08	PA	maintenance	9.15093	-79.62098
+America/Matamoros	2013/05/01	MX	maintenance	25.87972	-97.50417
+Europe/Madrid	2013/11/08	ES	good	41.91738	3.1631
+Asia/Kolkata	05/20/2016, 00:00:00	IN	excellent	23.49668	86.68363
+Europe/Amsterdam	2017/05/03	NL	average	52.31333	6.92917
+Asia/Seoul	10/05/2013, 00:00:00	KR	excellent	37.65639	126.835
+Africa/Lubumbashi	10/05/2013, 00:00:00	CD	excellent	0.49113	29.47306
+Europe/Brussels	2021/01/11	BE	maintenance	50.71229	4.52529
+Europe/Zurich	09/11/2016, 00:00:00	CH	maintenance	47.30997	8.52462
+Europe/London	09/01/2021, 00:00:00	GB	building	51.84819	1.26738
+Africa/Freetown	2022/02/22	SL	good	8.48714	-13.2356
+Europe/Vienna	2014/06/17	AT	accep	47.05	15.46667
+America/New_York	2016-11-30	US	average	37.60876	-77.37331
+Africa/Libreville	10/11/2014, 00:00:00	GA	accep	-1.63333	13.58357
+Africa/Douala	2022-05-07	CM	good	3.51667	11.5
+Asia/Manila	2019-09-09	PH	average	10.13361	124.84472
+Europe/Moscow	2019-10-29	RU	acceptable	55.38752	36.73307
+Asia/Dili	01/28/2018, 00:00:00	TL	average	-8.99167	125.21972
+Europe/Kiev	2015/05/26	UA	excellent	49.65186	26.97253
+Europe/Rome	2016/01/04	IT	good	45.50369	11.412
+Europe/Zaporozhye	2021/05/27	UA	maintenance	49.41029	38.15035
+Asia/Hong_Kong	2019/09/12	HK	good	22.37066	114.10479
+Europe/London	2017-11-03	GB	acceptable	52.41667	0.75
+Europe/Rome	08/03/2020, 00:00:00	IT	excellent	37.51803	15.00913
+Asia/Kolkata	2021-09-02	IN	building	21.53889	71.57737
+Asia/Shanghai	2016/01/15	CN	good	34.85	117.33333
+Europe/Moscow	23 Sep 2020	RU	accep	53.93361	37.92792
+Asia/Manila	05 Feb 2013	PH	excellent	16.455	120.5875
+America/Chicago	2013-11-15	US	maintenance	41.8542	-87.66561
+Indian/Antananarivo	2014/06/23	MG	excellent	-17.83333	48.41667
+America/Sao_Paulo	2019/05/01	BR	accep	-19.7625	-44.31389
+America/Mexico_City	2020-04-11	MX	accep	21.01858	-101.2591
+Europe/Moscow	2015/12/21	RU	building	57.30185	39.85331
+Asia/Shanghai	2015-04-19	CN	excellent	34.85	117.33333
+America/New_York	2017-01-11	US	excellent	34.25628	-78.04471
+Europe/Berlin	2021/06/11	DE	good	51.08468	7.11393
+Asia/Shanghai	2016/09/11	CN	good	40.85158	122.74754
+America/Santo_Domingo	2015/01/09	DO	good	18.20854	-71.10077
+Asia/Jerusalem	2020/07/16	IL	average	31.39547	34.75699
+Pacific/Auckland	2014/12/05	NZ	good	-38.65333	178.00417
+Europe/London	2018/06/21	GB	average	53.19146	-2.52398
+America/Havana	09 Jun 2015	CU	maintenance	23.04419	-82.00919
+Asia/Kolkata	16 Aug 2013	IN	accep	25.6439	77.9129
+Australia/Perth	24 Apr 2013	AU	accep	-32.05251	115.88782
+Europe/Vilnius	2014-06-10	LT	accep	54.39635	24.04142
+Europe/Moscow	21 Jul 2019	RU	average	53.95278	32.86389
+Asia/Seoul	12/15/2017, 00:00:00	KR	accep	37.1759	128.9889
+Asia/Karachi	2021-12-13	PK	average	30.76468	74.12286
+Europe/Moscow	15 Jun 2018	RU	good	56.85836	35.90057
+America/Bogota	2017-03-12	CO	accep	6.46838	-73.26022
+America/Porto_Velho	09/14/2022, 00:00:00	BR	maintenance	-8.76194	-63.90389
+Africa/Johannesburg	12 Aug 2021	ZA	building	-24.19436	29.00974
+America/Toronto	01/10/2013, 00:00:00	CA	excellent	45.40008	-73.58248
+Europe/Rome	2019/11/25	IT	average	41.55947	14.66737
+America/Los_Angeles	2015-06-09	US	building	38.54491	-121.74052
+Asia/Karachi	2016/03/01	PK	building	25.80565	68.49143
+Europe/Paris	20 Sep 2015	FR	excellent	43.67681	4.63031
+Asia/Seoul	2015/10/10	KR	average	36.82167	128.63083
+Asia/Yekaterinburg	02 Feb 2022	RU	good	56.11281	69.49015
+Asia/Yekaterinburg	07/14/2016, 00:00:00	RU	accep	51.4781	57.3552
+America/Caracas	03/07/2016, 00:00:00	VE	accep	9.91861	-68.30472
+America/Los_Angeles	03 Jul 2017	US	average	34.14251	-118.25508
+Africa/Abidjan	16 Feb 2014	CI	excellent	5.84752	-5.682
+America/New_York	09 Jul 2022	US	excellent	39.08367	-84.50855
+Asia/Jakarta	30 Jul 2019	ID	excellent	-7.51611	109.05389
+Asia/Jakarta	2019-11-01	ID	average	3.3285	99.1625
+Asia/Manila	2013-12-20	PH	maintenance	14.95472	120.89694
+Asia/Kolkata	2016-11-21	IN	excellent	12.1277	78.15794
+America/New_York	08 Nov 2015	US	good	41.9001	-71.08977
+Asia/Makassar	29 Sep 2019	ID	accep	3.31332	117.59152
+America/New_York	31 Dec 2019	US	good	40.68066	-73.47429
+America/Chicago	2022-01-11	US	good	41.85059	-87.882
+Europe/Moscow	06 Mar 2013	RU	maintenance	55.85	37.56667
+Europe/Madrid	2018-06-28	ES	average	37.35813	-6.03731
+America/Guayaquil	16 Dec 2013	EC	accep	-2.90055	-79.00453
+Europe/Madrid	2016-10-24	ES	building	37.49073	-2.77259
+America/Chicago	2020/07/29	US	building	41.8542	-87.66561
+Europe/Istanbul	06/28/2021, 00:00:00	TR	accep	39.12074	27.18052
+Europe/Amsterdam	05/07/2017, 00:00:00	NL	good	52.09	5.23333
+Asia/Tashkent	02/15/2021, 00:00:00	UZ	good	41.29444	69.67639
+America/Glace_Bay	27 Jun 2018	CA	average	46.1351	-60.1831
+America/Maceio	2020/02/11	BR	average	-10.90889	-37.03861
+Europe/Rome	2021-03-06	IT	average	42.22718	14.39024
+America/New_York	2022/02/09	US	accep	40.68066	-73.47429
+Europe/Amsterdam	07 Nov 2016	NL	good	51.44889	5.51978
+Europe/Sofia	05/17/2020, 00:00:00	BG	average	41.57439	24.71204
+Africa/Algiers	2016/12/09	DZ	excellent	36.76775	2.95924
+America/Chicago	2018-08-29	US	excellent	32.52515	-93.75018
+Asia/Manila	14 Sep 2014	PH	excellent	14.14989	121.3152
+Asia/Kolkata	07 Jun 2021	IN	excellent	33.37526	74.3092
+Europe/Paris	2016/04/20	FR	good	48.90982	2.45012
+Africa/Tunis	10/28/2018, 00:00:00	TN	good	36.46917	10.78222
+America/Toronto	05/31/2018, 00:00:00	CA	maintenance	45.4473	-73.75335
+Africa/Addis_Ababa	2021-06-06	ET	accep	11.85	38.01667
+Europe/Malta	2022/05/01	MT	average	35.89972	14.51472
+Asia/Shanghai	2020/03/03	CN	good	46.08333	122.08333
+Africa/Algiers	2014-03-17	DZ	good	36.76639	3.47717
+Asia/Karachi	07 Feb 2018	PK	accep	25.80565	68.49143
+Africa/Lagos	2018-11-21	NG	acceptable	9.58126	8.2926
+America/New_York	10/13/2012, 00:00:00	US	accep	41.55815	-73.0515
+America/Chicago	2016/07/19	US	maintenance	39.09112	-94.41551
+America/El_Salvador	2019-12-13	SV	excellent	13.70167	-89.10944
+Europe/Moscow	2018/10/06	RU	excellent	59.80917	30.38167
+Asia/Kolkata	05/15/2019, 00:00:00	IN	maintenance	18.51957	73.85535
+Asia/Almaty	08/04/2018, 00:00:00	KZ	building	47.46657	84.87144
+Asia/Jakarta	2021/12/27	ID	accep	-7.81667	112.01667
+Europe/Istanbul	2021-11-07	TR	good	40.37528	28.88222
+America/New_York	04/08/2022, 00:00:00	US	maintenance	34.06635	-84.67837
+Europe/Rome	2019-03-04	IT	building	43.62558	13.39954
+America/Sao_Paulo	2018-10-22	BR	average	-22.97056	-46.99583
+Asia/Jakarta	2021/07/18	ID	maintenance	-7.01833	107.60389
+Asia/Tokyo	2019/08/14	JP	accep	35.82756	137.95378
+Africa/Lagos	2013-10-18	NG	good	7.65649	4.92235
+Africa/Casablanca	01/01/2021, 00:00:00	MA	excellent	33.43443	-5.22126
+America/Mexico_City	14 Oct 2017	MX	maintenance	17.94979	-94.91386
+America/Recife	02/22/2018, 00:00:00	BR	good	-8.28333	-35.03333
+America/New_York	2015/09/11	US	maitennce	39.32288	-76.72803
+America/Chicago	2020-07-09	US	good	30.16688	-96.39774
+Asia/Kolkata	04/02/2013, 00:00:00	IN	maintenance	14.46693	75.92694
+Africa/Lubumbashi	2015-09-14	CD	excellent	0.49113	29.47306
+America/Mexico_City	2014/12/25	MX	good	19.04222	-98.11889
+Europe/London	2016-07-26	GB	accep	57.47908	-4.22398
+America/Managua	2022/07/06	NI	excellent	11.84962	-86.19903
+America/Argentina/Buenos_Aires	2021/06/26	AR	building	-34.64966	-58.38341
+America/New_York	11/14/2016, 00:00:00	US	average	43.61062	-72.97261
+Africa/Addis_Ababa	04/14/2015, 00:00:00	ET	excellent	6.03333	37.55
+Asia/Tokyo	2018/09/06	JP	good	39.46667	141.95
+Australia/Perth	2017-03-12	AU	acceptable	-32.05251	115.88782
+Africa/Kinshasa	2014-12-29	CD	good	-4.5833	15.16554
+Asia/Manila	2014/03/02	PH	average	14.62578	121.12251
+Asia/Manila	06/27/2020, 00:00:00	PH	excellent	6.33444	124.95278
+Asia/Shanghai	2022/01/13	CN	good	40.66482	122.22833
+Europe/Paris	2019/02/11	FR	good	44.80477	-0.59543
+Asia/Kolkata	22 Nov 2015	IN	excellent	34.08565	74.80555
+Europe/Moscow	2013-12-18	RU	average	55.63711	37.38115
+America/New_York	12/15/2019, 00:00:00	US	building	41.27621	-72.86843
+Africa/Casablanca	03/08/2016, 00:00:00	MA	accep	33.92866	-6.90656
+America/Chicago	2015/08/22	US	good	38.06084	-97.92977
+America/Argentina/Ushuaia	2016/06/23	AR	good	-54.8	-68.3
+Africa/Dar_es_Salaam	2021/12/22	TZ	good	-10.33333	39.28333
+America/Bogota	05 Aug 2020	CO	accep	3.8801	-77.03116
+America/Lima	2017-05-21	PE	good	-3.74912	-73.25383
+Asia/Shanghai	2021-11-11	CN	maintenance	37.19723	122.05228
+Asia/Yekaterinburg	05/06/2019, 00:00:00	RU	accep	51.4781	57.3552
+Europe/Oslo	05/26/2013, 00:00:00	NO	accep	68.79833	16.54165
+America/Chicago	05/07/2014, 00:00:00	US	building	42.16808	-88.42814
+Europe/Belgrade	04/14/2022, 00:00:00	XK	accep	42.62833	20.89389
+Europe/Lisbon	2016/02/09	PT	accep	41.1053	-7.32097
+Africa/Luanda	2014-07-26	AO	average	-11.78333	19.91667
+Asia/Tokyo	05/17/2018, 00:00:00	JP	excellent	43.82634	144.09638
+Asia/Kolkata	08/03/2022, 00:00:00	IN	good	12.95629	78.27539
+Asia/Shanghai	2022-02-18	CN	accep	34.65918	109.22921
+Europe/Moscow	03/17/2016, 00:00:00	RU	accep	59.80917	30.38167
+America/Sao_Paulo	2021-12-03	BR	average	-23.7975	-48.59278
+Europe/Berlin	13 Apr 2017	DE	excellent	54.52156	9.5586
+Europe/Helsinki	16 Nov 2017	FI	good	65.84811	24.14662
+Asia/Kolkata	2014-10-24	IN	average	14.62072	74.83554
+Africa/Algiers	2014-12-18	DZ	maintenance	36.27462	4.85668
+Asia/Yakutsk	04/16/2018, 00:00:00	RU	accep	65.93381	111.4834
+Europe/Berlin	05 Nov 2016	DE	accep	51.21667	6.26667
+America/Bogota	2022/08/07	CO	maintenance	5.6561	-75.87877
+America/Denver	2020/02/29	US	average	40.65995	-111.99633
+Africa/Algiers	2015-07-26	DZ	accep	36.61954	4.08282
+Europe/Vilnius	2019-04-22	LT	good	54.39635	24.04142
+Asia/Seoul	31 Jul 2015	KR	average	36.82167	128.63083
+Asia/Shanghai	07/24/2022, 00:00:00	CN	excellent	42.64031	125.51176
+Asia/Yekaterinburg	06 Jul 2018	RU	good	56.9083	60.8019
+America/New_York	08/26/2015, 00:00:00	US	good	39.96097	-75.60804
+Europe/Kiev	20 Jun 2016	UA	maintenance	47.56494	31.33078
+Europe/London	11/18/2017, 00:00:00	GB	maintenance	53.19146	-2.52398
+Europe/Copenhagen	2012-12-12	DK	building	55.67938	12.53463
+Europe/Amsterdam	2014/09/11	NL	average	51.955	5.22778
+America/Chicago	2019-09-08	US	accep	40.56754	-89.64066
+Asia/Baghdad	08 Dec 2021	IQ	maintenance	32.61603	44.02488
+Europe/Amsterdam	2015-09-02	NL	excellent	51.955	5.22778
+America/Chicago	2020/07/01	US	accep	41.80753	-87.65644
+Asia/Kolkata	06 Jul 2016	IN	average	26.2649	81.54855
+America/Los_Angeles	2017-10-31	US	accep	45.49428	-122.86705
+Asia/Manila	2017-08-05	PH	accep	12.97389	123.99333
+Asia/Shanghai	03 Oct 2015	CN	building	41.27194	123.17306
+America/Lima	2015/07/12	PE	accep	-3.74912	-73.25383
+Asia/Shanghai	2020/05/25	CN	maintenance	28.88162	120.03308
+America/Havana	11/10/2020, 00:00:00	CU	average	23.15678	-81.24441
+Europe/Istanbul	10 Feb 2015	TR	building	40.37528	28.88222
+Australia/Sydney	21 Jan 2014	AU	good	-33.79176	151.08057
+Europe/Paris	2022-02-14	FR	accep	48.8765	2.18967
+Europe/Rome	07/27/2020, 00:00:00	IT	good	40.87363	14.34085
+Asia/Karachi	2022/01/15	PK	excellent	31.82539	72.54064
+America/Phoenix	02/27/2013, 00:00:00	US	average	33.35283	-111.78903
+America/Los_Angeles	2019-01-15	US	accep	33.92946	-116.97725
+Europe/Paris	2019-08-07	FR	maintenance	48.98994	2.1699
+America/Sao_Paulo	2013-08-08	BR	good	-17.74431	-48.62789
+Europe/Amsterdam	2019/10/27	NL	good	52.26083	7.00417
+Europe/Belgrade	2021-04-06	XK	good	42.62833	20.89389
+Asia/Shanghai	08/03/2018, 00:00:00	CN	accep	27.34089	117.4831
+Asia/Kolkata	2021-10-15	IN	average	34.08565	74.80555
+America/Chicago	05/23/2013, 00:00:00	US	good	32.44874	-99.73314
+America/Boise	2013/08/06	US	good	43.54072	-116.56346
+Asia/Tokyo	2019/07/18	JP	good	36.24624	139.07204
+Europe/Madrid	04/15/2017, 00:00:00	ES	accep	38.47917	-1.325
+Asia/Kolkata	2016-01-25	IN	average	29.21399	78.95693
+Europe/Berlin	2019/08/16	DE	good	48.35693	10.98461
+Europe/Dublin	09 Feb 2013	IE	good	53.43333	-7.95
+Europe/Madrid	05/09/2015, 00:00:00	ES	good	37.35813	-6.03731
+Asia/Kuala_Lumpur	07/31/2013, 00:00:00	MY	good	4.88441	101.96857
+Europe/Berlin	04/04/2017, 00:00:00	DE	maintenance	50.80019	7.20769
+Asia/Almaty	25 Feb 2020	KZ	accep	47.46657	84.87144
+Europe/Rome	07/01/2022, 00:00:00	IT	accep	41.24264	16.50104
+Asia/Tokyo	2018/10/07	JP	maintenance	39.46667	141.95
+Asia/Kolkata	2013-01-08	IN	good	33.37526	74.3092
+Africa/Kampala	2021/11/14	UG	good	3.02013	30.91105
+Asia/Kolkata	01 Jul 2020	IN	accep	20.88098	75.11937
+Europe/Istanbul	2022-06-30	TR	average	40.98894	28.67582
+America/Chicago	01/19/2021, 00:00:00	US	maintenance	47.92526	-97.03285
+Asia/Kolkata	11/23/2017, 00:00:00	IN	excellent	26.11527	86.59509
+Pacific/Auckland	2020-03-20	NZ	average	-44.39672	171.25364
+Asia/Damascus	2018/03/14	SY	accep	35.95664	36.7138
+America/Sao_Paulo	04/02/2021, 00:00:00	BR	good	-25.42944	-50.00639
+Asia/Kolkata	09/14/2015, 00:00:00	IN	building	24.41288	76.56719
+Asia/Shanghai	2014/04/07	CN	building	35.20889	111.73861
+Europe/Paris	10/16/2021, 00:00:00	FR	average	46.67535	5.55575
+Europe/Berlin	2015-04-08	DE	accep	48.35693	10.98461
+Europe/Bucharest	2022/03/20	RO	building	44.43579	26.01649
+America/New_York	2020/07/23	US	good	40.24537	-75.64963
+Asia/Kolkata	2017-01-09	IN	accep	11.93381	79.82979
+Europe/Oslo	2016/04/13	NO	excellent	68.79833	16.54165
+Africa/Khartoum	01/02/2020, 00:00:00	SD	maintenance	11.8659	34.3869
+Europe/Berlin	2014/04/18	DE	building	53.94313	10.30215
+Asia/Tehran	22 Aug 2017	IR	maintenance	35.6803	51.0193
+Europe/Moscow	2020-12-16	RU	average	55.38752	36.73307
+Europe/Zaporozhye	2016-12-01	UA	average	49.41029	38.15035
+America/New_York	30 Dec 2014	US	excellent	40.5576	-74.28459
+Europe/Madrid	19 Apr 2019	ES	accep	43.32686	-2.98884
+America/Chicago	10/22/2021, 00:00:00	US	good	40.56754	-89.64066
+Europe/Vienna	2016/01/20	AT	maintenance	48.25	16.4
+Asia/Shanghai	2017/06/22	CN	good	32.54278	111.50861
+America/Caracas	2015/02/12	VE	accep	10.22677	-67.33122
+America/Los_Angeles	2017/05/07	US	average	38.54491	-121.74052
+America/Bahia	2017/05/30	BR	excellent	-15.675	-38.94722
+Europe/Berlin	2019/01/27	DE	accep	53.59337	9.47629
+Europe/Kiev	2013/11/04	UA	maintenance	50.75932	25.34244
+Europe/Rome	2015-01-13	IT	excellent	45.79377	8.88104
+America/New_York	02 Feb 2021	US	building	41.24255	-82.61573
+Asia/Tokyo	2015-03-08	JP	maintenance	35.8	137.23333
+Europe/London	25 Sep 2014	GB	maintenance	52.48173	-2.12139
+Europe/Berlin	12/26/2017, 00:00:00	DE	accep	50.23019	8.77155
+Africa/Lagos	2021/05/12	NG	building	12.74482	4.52514
+Europe/Moscow	12/03/2016, 00:00:00	RU	accep	54.8421	46.5813
+Asia/Seoul	01/30/2016, 00:00:00	KR	excellent	37.65639	126.835
+Africa/Algiers	01/06/2018, 00:00:00	DZ	good	36.06386	4.62744
+America/Boise	25 Dec 2012	US	building	43.54072	-116.56346
+Europe/Kiev	07/01/2016, 00:00:00	UA	excellent	51.67822	33.9162
+Asia/Kolkata	2015/08/19	IN	excellent	17.54907	82.85749
+Europe/Berlin	08/13/2013, 00:00:00	DE	maintenance	52.86147	9.5926
+Asia/Manila	04 Jul 2015	PH	average	14.66	120.56528
+Asia/Tokyo	11 Dec 2015	JP	maintenance	36.33011	138.89585
+Europe/Madrid	2019/08/16	ES	average	38.47917	-1.325
+Europe/Moscow	01 Mar 2016	RU	building	58.1908	40.17171
+Africa/Lagos	16 Apr 2022	NG	accep	6.45407	3.39467
+Europe/London	2018/01/04	GB	accep	57.14369	-2.09814
+Europe/Lisbon	07 Jul 2021	PT	good	38.72706	-9.24671
+Asia/Manila	2013-04-07	PH	excellent	10.7375	122.9666
+Africa/Windhoek	2019/09/11	NA	accep	-21.98333	16.91667
+Europe/Lisbon	08 May 2018	PT	average	41.1053	-7.32097
+America/Chicago	2016-07-28	US	good	33.41012	-91.06177
+Africa/Lagos	2013-06-15	NG	good	7.50251	5.06258
+America/Montevideo	26 Jul 2020	UY	good	-33.38056	-56.52361
+Europe/Malta	04/19/2015, 00:00:00	MT	excellent	35.89972	14.51472
+America/Denver	12 May 2016	US	average	32.42067	-104.22884
+Pacific/Efate	07 Mar 2021	VU	accep	-17.73648	168.31366
+Africa/Lagos	2013/02/27	NG	accep	7.62789	4.74161
+Africa/Lagos	08 Apr 2017	NG	good	6.45407	3.39467
+Africa/Banjul	13 Jan 2017	GM	average	13.56667	-15.6
+Europe/Rome	2020/02/04	IT	good	41.72063	12.6723
+America/Halifax	03/10/2022, 00:00:00	CA	accep	46.23899	-63.13414
+Europe/Berlin	2014/08/30	DE	good	48.78232	9.17702
+Africa/Djibouti	2017/03/21	DJ	good	11.15583	42.7125
+America/Los_Angeles	09/18/2017, 00:00:00	US	average	46.32374	-120.00865
+America/Chicago	2021-12-25	US	building	39.09112	-94.41551
+Europe/Moscow	2013-11-02	RU	good	55.38752	36.73307
+Asia/Kolkata	26 Jan 2021	IN	building	21.59983	71.21169
+America/Mexico_City	2015-11-29	MX	excellent	19.64745	-102.04897
+America/Los_Angeles	2015-10-23	US	good	33.76446	-117.79394
+Africa/Addis_Ababa	20 Mar 2017	ET	accep	11.85	38.01667
+Asia/Manila	10/10/2013, 00:00:00	PH	good	12.37169	123.62494
+America/Panama	06/27/2021, 00:00:00	PA	maintenance	9.15093	-79.62098
+Asia/Tehran	10/18/2019, 00:00:00	IR	excellent	32.65246	51.67462
+America/Port-au-Prince	05/06/2021, 00:00:00	HT	accep	18.65297	-72.09391
+America/Santiago	27 Jan 2022	CL	average	-30.60106	-71.19901
+Europe/Moscow	20 May 2016	RU	average	53.95278	32.86389
+Europe/Moscow	2012/12/11	RU	excellent	55.85	37.56667
+Africa/Johannesburg	2014/10/29	ZA	average	-27.76952	30.79165
+America/Sao_Paulo	2015/02/27	BR	excellent	-22.92306	-53.13722
+America/Guayaquil	11/08/2017, 00:00:00	EC	accep	-2.90055	-79.00453
+Asia/Kolkata	2013-08-13	IN	excellent	17.34769	78.55757
+America/Sao_Paulo	2014/08/21	BR	maintenance	-21.41222	-42.19667
+Europe/Berlin	01 Feb 2021	DE	good	48.73218	11.18709
+Asia/Karachi	17 Feb 2016	PK	accep	25.80565	68.49143
+Europe/London	08 Oct 2020	GB	maintenance	53.38333	-0.76667
+Asia/Shanghai	2012/11/24	CN	maintenance	41.94175	123.50266
+Asia/Tokyo	01/12/2017, 00:00:00	JP	accep	34.4833	136.84186
+America/New_York	2019-05-28	US	accep	26.91756	-82.07842
+Asia/Jakarta	07/28/2021, 00:00:00	ID	good	-7.81667	112.01667
+Asia/Kolkata	2013/06/28	IN	accep	20.88197	85.83334
+Africa/Freetown	22 Apr 2015	SL	building	8.48714	-13.2356
+Asia/Tehran	27 Jan 2022	IR	average	32.65246	51.67462
+America/Chicago	06 Sep 2021	US	excellent	32.5007	-94.74049
+Europe/Rome	2019/07/17	IT	good	44.89784	8.86374
+America/New_York	2012/12/03	US	average	40.60538	-73.75513
+Europe/Istanbul	19 Feb 2016	TR	accep	39.22493	42.85693
+America/Havana	07/03/2018, 00:00:00	CU	accep	23.04419	-82.00919
+Europe/Moscow	12/13/2021, 00:00:00	RU	maintenance	54.8421	46.5813
+Africa/Luanda	2018-05-22	AO	excellent	-11.78333	19.91667
+America/Sao_Paulo	2020/01/12	BR	maintenance	-21.42917	-45.94722
+America/New_York	2013-06-27	US	building	40.72816	-74.07764
+America/Mexico_City	2020-11-09	MX	average	17.94979	-94.91386
+America/New_York	2018-07-02	US	good	40.57788	-73.95958
+Asia/Shanghai	2015/05/04	CN	good	28.88162	120.03308
+Africa/Addis_Ababa	05/30/2021, 00:00:00	ET	building	11.85	38.01667
+Asia/Bangkok	2020/05/29	TH	excellent	14.37395	100.48528
+Europe/Moscow	07/02/2021, 00:00:00	RU	good	55.38752	36.73307
+Europe/Moscow	2022-01-25	RU	average	57.30185	39.85331
+Asia/Kolkata	2014-06-01	IN	excellent	18.87813	72.93924
+Europe/Paris	2020/09/03	FR	building	43.32393	5.4584
+Europe/Brussels	2022/05/02	BE	accep	50.74497	3.20639
+Asia/Bishkek	2014-11-09	KG	excellent	40.93333	73
+Asia/Jakarta	02 Apr 2016	ID	good	-1.26424	104.09701
+America/New_York	08 Feb 2021	US	average	41.14676	-73.49484
+Asia/Karachi	2013/09/21	PK	accep	26.9423	68.11759
+Asia/Karachi	2019/05/22	PK	building	32.57756	71.52847
+Europe/Madrid	10/09/2013, 00:00:00	ES	accep	40.70995	0.57856
+Asia/Samarkand	2017-08-18	UZ	excellent	40.11583	67.84222
+Europe/Bucharest	22 Mar 2019	RO	excellent	44.43579	26.01649
+Africa/Nairobi	10/01/2014, 00:00:00	KE	accep	0.03813	36.36339
+Africa/Lagos	2019-10-22	NG	good	6.45407	3.39467
+Asia/Kolkata	20 Feb 2014	IN	good	14.62072	74.83554
+Europe/Berlin	05 Aug 2022	DE	excellent	48.78232	9.17702
+America/Puerto_Rico	12/31/2015, 00:00:00	PR	maintenance	18.42745	-67.15407
+America/Chicago	2018-09-04	US	accep	42.24113	-88.3162
+America/Mexico_City	11/20/2012, 00:00:00	MX	maintenance	19.8173	-97.35992
+Africa/Brazzaville	2018-09-15	CG	average	-4.26613	15.28318
+Africa/Lagos	2012-11-28	NG	good	7.50251	5.06258
+Europe/Berlin	2018-05-06	DE	maintenance	48.06919	11.37703
+Asia/Shanghai	04/08/2016, 00:00:00	CN	maintenance	36.19278	117.65694
+Africa/Algiers	2022-03-06	DZ	maintenance	36.27462	4.85668
+Asia/Barnaul	2015-05-08	RU	excellent	53.30972	83.62389
+Asia/Kolkata	2016/09/29	IN	excellent	22.19303	88.18466
+Australia/Brisbane	2013-01-01	AU	average	-27.50578	153.10236
+Asia/Seoul	2021-05-18	KR	accep	34.8825	128.62667
+America/New_York	2019-04-20	US	maintenance	43.61062	-72.97261
+Europe/Moscow	2015/04/27	RU	accep	43.35071	46.10925
+America/Mazatlan	2015/01/22	MX	accep	22.49396	-105.36369
+America/Bogota	06/03/2022, 00:00:00	CO	good	7.83389	-72.47417
+Africa/Douala	07/27/2022, 00:00:00	CM	good	4.2475	9.00472
+Africa/Monrovia	2013-07-08	LR	accep	7.57944	-8.53778
+Europe/Vilnius	17 May 2019	LT	maintenance	55.25	24.75
+America/New_York	2013-07-25	US	excellent	38.70734	-77.02303
+Europe/Moscow	20 Sep 2017	RU	excellent	53.77166	38.12408
+Europe/Moscow	12/31/2015, 00:00:00	RU	excellent	42.819	47.1192
+Europe/Berlin	22 Apr 2020	DE	average	50.9803	11.32903
+Europe/London	2017-08-22	GB	accep	50.7236	-3.52751
+Europe/Rome	2022-01-02	IT	maintenance	45.50369	11.412
+Asia/Makassar	2021-05-15	ID	average	-3.5403	118.9707
+Asia/Kolkata	2020/12/23	IN	accep	25.75728	75.37991
+America/Manaus	2017-09-26	BR	excellent	-3.14306	-58.44417
+America/Chicago	23 Dec 2012	US	average	30.16688	-96.39774
+Africa/Johannesburg	05/27/2013, 00:00:00	ZA	accep	-27.76952	30.79165
+Australia/Melbourne	2013-03-14	AU	average	-38.16604	145.13643
+Europe/London	29 Nov 2013	GB	excellent	55.82885	-4.21376
+Europe/Vienna	09/25/2015, 00:00:00	AT	excellent	47.05	15.46667
+America/Los_Angeles	2019-05-04	US	excellent	44.99012	-123.02621
+Europe/Moscow	07/30/2017, 00:00:00	RU	average	56.03361	35.96944
+Asia/Kolkata	12 Aug 2019	IN	good	29.22254	79.5286
+Europe/Paris	11/17/2017, 00:00:00	FR	average	43.61092	3.87723
+America/Lima	11 Feb 2016	PE	excellent	-11.94306	-76.70944
+America/Los_Angeles	2013-03-11	US	building	33.92946	-116.97725
+America/Chicago	16 Jun 2017	US	building	42.16808	-88.42814
+Europe/Berlin	17 Nov 2014	DE	maintenance	50.80019	7.20769
+America/Chicago	2016-10-22	US	accep	41.6764	-91.58045
+Europe/Rome	03 Oct 2019	IT	accep	37.31065	13.57661
+Africa/Accra	2020-01-13	GH	good	7.06273	-1.4001
+Europe/Madrid	2017-07-18	ES	average	38.96667	-0.18333
+Asia/Tokyo	05 Feb 2019	JP	excellent	33.4425	129.96972
+America/Chicago	2017/04/27	US	accep	32.44874	-99.73314
+America/Argentina/Buenos_Aires	2019/06/20	AR	maintenance	-34.64167	-60.47389
+Europe/London	09/25/2022, 00:00:00	GB	excellent	50.75767	-1.5443
+Asia/Manila	11/25/2016, 00:00:00	PH	excellent	16.455	120.5875
+Europe/Rome	21 Oct 2015	IT	excellent	45.53069	9.40531
+Asia/Shanghai	2014/07/30	CN	average	30.35028	112.19028
+America/Chicago	2015-04-13	US	maintenance	31.84568	-102.36764
+Europe/Amsterdam	2022-08-15	NL	accep	53.16167	6.76111
+Asia/Tehran	2019-12-16	IR	building	35.6803	51.0193
+America/New_York	2013-06-04	US	maintenance	38.91817	-78.19444
+America/New_York	29 Mar 2022	US	average	41.24255	-82.61573
+America/New_York	10/05/2015, 00:00:00	US	good	28.90054	-81.26367
+Asia/Kolkata	2019/08/29	IN	excellent	25.87498	86.59611
+Europe/Zurich	2015-01-07	CH	accep	46.18396	6.10237
+America/New_York	2017/03/21	US	good	43.1009	-75.23266
+Asia/Manila	2012-10-24	PH	average	16.0438	120.4861
+Indian/Antananarivo	09 Aug 2013	MG	building	-21.15	46.58333
+Asia/Karachi	2013/05/11	PK	maintenance	30.46907	70.96699
+Europe/Amsterdam	05 Nov 2012	NL	good	51.44889	5.51978
+America/Chicago	2016/07/31	US	excellent	41.72059	-87.70172
+Asia/Yakutsk	2012-12-01	RU	excellent	65.93381	111.4834
+America/Chicago	2015/06/28	US	accep	44.27804	-88.27205
+Asia/Kolkata	2019-03-14	IN	maintenance	21.53889	71.57737
+Africa/Douala	2013/12/10	CM	excellent	3.51667	11.5
+Europe/Saratov	2014-10-29	RU	accep	51.40944	46.04833
+Australia/Melbourne	11/03/2021, 00:00:00	AU	good	-37.88333	145.06667
+Asia/Tokyo	02 Nov 2017	JP	building	35.815	139.6853
+America/Tegucigalpa	2013-11-29	HN	average	15.48131	-86.57415
+Europe/Paris	2018-03-10	FR	accep	46.67535	5.55575
+Asia/Kolkata	05 May 2014	IN	excellent	31.28092	74.85849
+Asia/Seoul	2014-07-10	KR	good	36.20389	127.08472
+Europe/London	2020-10-18	GB	accep	55.82737	-4.0573
+Asia/Shanghai	08 Dec 2021	CN	building	37.65181	120.33063
+Asia/Kolkata	03 Apr 2014	IN	excellent	26.44931	91.61356
+Asia/Manila	2016-05-29	PH	average	14.14989	121.3152
+Europe/Moscow	2021/05/09	RU	building	57.97472	33.2525
+Africa/Johannesburg	2013/01/26	ZA	accep	-26.93366	29.24152
+America/New_York	10/04/2015, 00:00:00	US	excellent	39.08367	-84.50855
+Australia/Perth	2014-09-04	AU	average	-31.95224	115.8614
+Europe/Rome	2020-09-04	IT	accep	40.92298	14.30935
+Europe/Paris	10/06/2012, 00:00:00	FR	good	48.90472	2.2469
+Europe/Rome	2022-06-12	IT	good	37.31065	13.57661
+Asia/Yakutsk	2013-03-05	RU	accep	65.93381	111.4834
+America/Belem	2021/12/02	BR	building	-0.71667	-48.52333
+America/Vancouver	2020-08-28	CA	excellent	50.26729	-119.27337
+Asia/Yangon	06 Feb 2018	MM	average	17.30858	97.01124
+Asia/Kolkata	02 Oct 2017	IN	accep	25.49043	85.94001
+Africa/Casablanca	2019/05/10	MA	average	34.31	-2.16
+Africa/Dar_es_Salaam	2014/10/21	TZ	average	-10.33333	39.28333
+America/Halifax	2013/11/28	CA	accep	46.23899	-63.13414
+Europe/Paris	2020/04/30	FR	good	48.90982	2.45012
+America/New_York	05/01/2015, 00:00:00	US	maintenance	28.90054	-81.26367
+Africa/Addis_Ababa	06 Jul 2020	ET	building	6.03333	37.55
+Asia/Kolkata	2018/10/14	IN	good	18.18158	76.03889
+America/Los_Angeles	05/29/2020, 00:00:00	US	maintenance	32.9156	-117.14392
+Europe/Istanbul	2013/06/12	TR	accep	37.31309	40.74357
+America/Boise	2020/10/09	US	average	43.54072	-116.56346
+Africa/Banjul	2019/10/31	GM	good	13.56667	-15.6
+America/New_York	2016/02/15	US	excellent	42.4251	-71.06616
+Europe/Paris	08/25/2014, 00:00:00	FR	accep	43.61058	1.33467
+Europe/Kiev	10 Jun 2018	UA	average	49.65186	26.97253
+Asia/Shanghai	2020/12/02	CN	average	41.94175	123.50266
+America/New_York	04/04/2020, 00:00:00	US	average	42.35843	-71.05977
+Asia/Colombo	02/04/2021, 00:00:00	LK	accep	6.84019	79.87116
+Africa/Blantyre	22 Jun 2022	MW	good	-13.7804	34.4587
+Europe/Minsk	20 Dec 2014	BY	average	52.4089	31.3237
+America/Mexico_City	2021/08/10	MX	accep	19.64745	-102.04897
+America/Argentina/Ushuaia	07/12/2021, 00:00:00	AR	average	-54.8	-68.3
+Europe/Berlin	2013-08-07	DE	good	52.21099	7.02238
+Asia/Karachi	25 Oct 2019	PK	building	31.71667	73.38333
+America/Sao_Paulo	2017-11-29	BR	excellent	-23.44361	-51.87389
+America/New_York	05/09/2019, 00:00:00	US	average	27.71809	-82.35176
+Asia/Kolkata	2019/06/02	IN	good	25.92127	86.79271
+America/Lima	12 Nov 2020	PE	maintenance	-3.74912	-73.25383
+Europe/Paris	2018-05-01	FR	maintenance	50.75	2.25
+Europe/Rome	14 Jan 2018	IT	building	42.67164	14.01481
+America/Los_Angeles	12 Feb 2021	US	excellent	34.09668	-117.71978
+America/Mexico_City	07/15/2015, 00:00:00	MX	excellent	17.94979	-94.91386
+Asia/Qyzylorda	2014-04-06	KZ	accep	44.85278	65.50917
+Asia/Jakarta	2020/07/04	ID	excellent	0.51667	101.44167
+Asia/Yangon	28 Nov 2013	MM	accep	17.30858	97.01124
+Europe/Istanbul	11/28/2018, 00:00:00	TR	maintenance	39.22493	42.85693
+America/Los_Angeles	12/25/2018, 00:00:00	US	accep	33.72255	-116.37697
+Europe/Samara	2015-10-12	RU	excellent	53.37596	51.3452
+Australia/Sydney	2016-06-22	AU	good	-33.88096	151.07986
+America/Bogota	2018-05-13	CO	average	10.15031	-73.9614
+Asia/Tokyo	2018-09-06	JP	excellent	41.77583	140.73667
+America/Mexico_City	21 Aug 2021	MX	accep	16.75973	-93.11308
+Asia/Karachi	10/22/2020, 00:00:00	PK	excellent	31.96258	73.97117
+Africa/Kampala	2016-11-19	UG	average	3.02013	30.91105
+America/Jamaica	2014-10-18	JM	excellent	18.00747	-76.78319
+Europe/Minsk	2016-04-08	BY	accep	52.4089	31.3237
+Europe/Moscow	12 Oct 2018	RU	good	53.77166	38.12408
+America/Chicago	06/23/2013, 00:00:00	US	average	29.84576	-90.10674
+Africa/Dar_es_Salaam	03 May 2018	TZ	average	-6.8	39.25
+America/Los_Angeles	23 Jan 2019	US	excellent	36.20829	-115.98391
+Europe/Kiev	2016-07-08	UA	average	46.75451	33.34864
+America/Chicago	01/11/2016, 00:00:00	US	maintenance	29.53885	-95.44744
+Africa/Johannesburg	04 Aug 2021	ZA	average	-27.76952	30.79165
+Europe/London	2016/12/21	GB	excellent	53.78333	-1.06667
+America/Bogota	2016-08-27	CO	accep	10.98778	-74.95472
+Africa/Lagos	15 Jul 2018	NG	average	7.65649	4.92235
+Africa/Algiers	25 Jul 2018	DZ	excellent	36.06386	4.62744
+Asia/Kolkata	2017/01/22	IN	average	14.46693	75.92694
+Asia/Tokyo	2018-08-17	JP	average	35.48199	137.02166
+Asia/Manila	23 Sep 2014	PH	average	16.0438	120.4861
+Europe/Amsterdam	09/01/2020, 00:00:00	NL	good	52.14	5.58472
+Asia/Kolkata	2021-04-13	IN	good	18.18158	76.03889
+Europe/Berlin	30 Dec 2013	DE	accep	50.82709	6.9747
+Europe/Paris	2022/03/22	FR	maintenance	48	-4.1
+Asia/Kolkata	04/18/2017, 00:00:00	IN	good	28.71271	77.656
+America/Detroit	2020-08-29	US	average	42.97086	-82.42491
+Africa/Dar_es_Salaam	2018-03-23	TZ	average	-4.06667	37.73333
+Europe/Kiev	11/07/2016, 00:00:00	UA	good	49.65186	26.97253
+America/Argentina/Tucuman	2019-05-27	AR	accep	-27.4338	-65.61427
+America/Bogota	09/12/2014, 00:00:00	CO	accep	5.6561	-75.87877
+America/Panama	2019-06-11	PA	excellent	9.15093	-79.62098
+Asia/Yekaterinburg	2016-01-13	RU	good	51.78771	56.36091
+Europe/Paris	2020-08-18	FR	average	43.2907	5.4384
+America/Denver	2016/05/13	US	good	32.42067	-104.22884
+America/New_York	10 Jan 2018	US	maintenance	39.45621	-77.96389
+Asia/Tokyo	2013-03-27	JP	building	36.33011	138.89585
+America/New_York	25 Mar 2018	US	building	37.60876	-77.37331
+Asia/Manila	09 Aug 2017	PH	average	16.0438	120.4861
+Atlantic/Canary	2020/12/17	ES	maintenance	27.76056	-15.58602
+America/Mexico_City	2020-12-27	MX	excellent	20.28527	-103.42897
+America/Los_Angeles	2017-02-12	US	good	47.64995	-117.23991
+Europe/Belgrade	31 Oct 2016	RS	excellent	44.97639	19.61222
+Europe/Paris	15 Sep 2015	FR	excellent	50.75	2.25
+Europe/Berlin	11 Feb 2020	DE	good	50.64336	7.2278
+Europe/Rome	2015-06-06	IT	average	44.59445	11.04979
+Africa/Dar_es_Salaam	2020-02-12	TZ	accep	-7.76667	35.7
+America/Los_Angeles	11 Aug 2013	US	accep	36.06523	-119.01677
+Asia/Shanghai	22 Dec 2014	CN	average	30.35028	112.19028
+Europe/Paris	18 Feb 2020	FR	average	43.61058	1.33467
+Europe/Vienna	2019/05/19	AT	average	47.05	15.46667
+Indian/Antananarivo	02 Jan 2019	MG	building	-21.15	46.58333
+Asia/Yekaterinburg	26 May 2019	RU	excellent	55.75556	60.70278
+America/Bahia	08 Jan 2013	BR	excellent	-15.675	-38.94722
+America/Chicago	08 Jan 2019	US	building	29.53885	-95.44744
+Africa/Dar_es_Salaam	2019/03/25	TZ	maitennce	-2.68333	33
+Europe/London	2017-09-11	GB	maintenance	51.39323	0.47713
+America/Mexico_City	03/17/2021, 00:00:00	MX	accep	19.32889	-99.32556
+Europe/Rome	06/22/2014, 00:00:00	IT	maintenance	36.92574	14.72443
+America/Mexico_City	2013-12-10	MX	maintenance	19.04222	-98.11889
+America/Argentina/Buenos_Aires	27 Sep 2016	AR	building	-34.74785	-58.70072
+America/New_York	2012-12-11	US	good	38.70734	-77.02303
